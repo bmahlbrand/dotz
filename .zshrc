@@ -84,6 +84,7 @@ alias sshdata="ssh bahlbran@data.cs.purdue.edu"
 alias shutdown="shutdown -h now"
 alias reboot="shutdown -r now"
 alias kill="kill -9"
+alias toggleMute="pactl set-sink-mute 1 toggle"
 
 PERL_MB_OPT="--install_base \"/home/ben/perl5\""; export PERL_MB_OPT;
 PERL_MM_OPT="INSTALL_BASE=/home/ben/perl5"; export PERL_MM_OPT;

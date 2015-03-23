@@ -1,9 +1,11 @@
-syntax on
-execute pathogen#infect('/{}')
-filetype plugin indent on
+set runtimepath+=~/.vim_runtime
 
-" syntastic
-let g:syntastic_auto_loc_list=1
-let g:syntastic_disabled_filetypes=['html']
-let g:syntastic_check_on_open=1
-let g:syntastic_enable_signs=1
+source ~/.vim_runtime/vimrcs/basic.vim
+source ~/.vim_runtime/vimrcs/filetypes.vim
+source ~/.vim_runtime/vimrcs/plugins_config.vim
+source ~/.vim_runtime/vimrcs/extended.vim
+
+try
+source ~/.vim_runtime/my_configs.vim
+catch
+endtry

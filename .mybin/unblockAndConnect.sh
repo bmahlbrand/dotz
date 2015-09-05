@@ -1,3 +1,4 @@
+#!/bin/bash
 #!/bin/zsh
 sudo rfkill unblock all
 sudo systemctl restart dhcpcd.service

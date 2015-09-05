@@ -1,6 +1,11 @@
 {
 	"folder_history":
 	[
+		"/opt/lampp/htdocs/PCLLAB",
+		"/home/ben/Workspace/PCLLAB/generic_experiment",
+		"/home/ben/Dropbox/cs252/lab7-src",
+		"/home/ben/Dropbox/cs252/lab5-src",
+		"/home/ben/Dropbox/cs252/lab4-src",
 		"/home/ben/Dropbox/cs252/lab3-src",
 		"/home/ben/Dropbox/cs252/lab2-src",
 		"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src",
@@ -20,12 +25,12 @@
 		"/home/ben/Dropbox/cs251/lab2-src",
 		"/home/ben/Dropbox/cs251/lab1-src"
 	],
-	"last_version": 3065,
-	"last_window_id": 164,
+	"last_version": 3083,
+	"last_window_id": 170,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1024.0,
+		"new_window_height": 992.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -33,8 +38,380 @@
 				"selected_items":
 				[
 					[
+						"li",
+						"list"
+					],
+					[
+						"lis",
+						"list_head_i"
+					],
+					[
+						"_",
+						"_type"
+					],
+					[
+						"inv",
+						"intValue"
+					],
+					[
+						"ap",
+						"append_i"
+					],
+					[
+						"A",
+						"ARG_NAME"
+					],
+					[
+						"NUM",
+						"NUMBER_NODE"
+					],
+					[
+						"list_",
+						"list_expr"
+					],
+					[
+						"list",
+						"list_destroy"
+					],
+					[
+						"str",
+						"_strValue"
+					],
+					[
+						"arg",
+						"arg_list"
+					],
+					[
+						"new",
+						"newNode"
+					],
+					[
+						"typ",
+						"NODE_TYPE"
+					],
+					[
+						"va",
+						"_intValue"
+					],
+					[
+						"tmp",
+						"tmpList"
+					],
+					[
+						"num",
+						"num_list"
+					],
+					[
+						"nu",
+						"num_list"
+					],
+					[
+						"in",
+						"intResult"
+					],
+					[
+						"res",
+						"result"
+					],
+					[
+						"free",
+						"free_tree"
+					],
+					[
+						"L",
+						"LIST_NODE"
+					],
+					[
+						"NU",
+						"NUMBER"
+					],
+					[
+						"int",
+						"intValue"
+					],
+					[
+						"LIS",
+						"LIST_NODE"
+					],
+					[
+						"List",
+						"ListNode"
+					],
+					[
+						"T",
+						"TAIL"
+					],
+					[
+						"IF",
+						"IFE_NODE"
+					],
+					[
+						"s",
+						"struct	struct"
+					],
+					[
+						"C",
+						"CLOSEPAR"
+					],
+					[
+						"buildH",
+						"buildHrefParent"
+					],
+					[
+						"http",
+						"http-root-dir"
+					],
+					[
+						"buil",
+						"buildTableDir"
+					],
+					[
+						"r",
+						"runningTime"
+					],
+					[
+						"runnin",
+						"runningTime"
+					],
+					[
+						"run",
+						"runTime"
+					],
+					[
+						"thi",
+						"thisTime"
+					],
+					[
+						"riun",
+						"runningTime"
+					],
+					[
+						"clock",
+						"clock_t"
+					],
+					[
+						"max",
+						"maxEntry"
+					],
+					[
+						"ur",
+						"uriRequested"
+					],
+					[
+						"min",
+						"minEntry"
+					],
+					[
+						"t",
+						"t_ns"
+					],
+					[
+						"build",
+						"buildPath"
+					],
+					[
+						"map",
+						"mapToRelative"
+					],
+					[
+						"cu",
+						"currentFile"
+					],
+					[
+						"STD",
+						"stdout"
+					],
+					[
+						"htt",
+						"http-root-dir"
+					],
+					[
 						"p",
-						"prefix"
+						"parent"
+					],
+					[
+						"ru",
+						"runTime"
+					],
+					[
+						"lo",
+						"logEntry"
+					],
+					[
+						"tim",
+						"timetaken"
+					],
+					[
+						"mu",
+						"pthread_mutex_lock"
+					],
+					[
+						"ma",
+						"mattr"
+					],
+					[
+						"pth",
+						"pthread_mutex_t"
+					],
+					[
+						"st_",
+						"st_size"
+					],
+					[
+						"H",
+						"HTTP"
+					],
+					[
+						"LO",
+						"LogEntry"
+					],
+					[
+						"pr",
+						"printlog"
+					],
+					[
+						"uri",
+						"uriRequested"
+					],
+					[
+						"log",
+						"logTable"
+					],
+					[
+						"add",
+						"addToLog"
+					],
+					[
+						"st",
+						"stderr"
+					],
+					[
+						"jj",
+						"jj-mod"
+					],
+					[
+						"con",
+						"continue"
+					],
+					[
+						"std",
+						"stdout"
+					],
+					[
+						"bui",
+						"buildPath"
+					],
+					[
+						"docu",
+						"documentRequested"
+					],
+					[
+						"sock",
+						"socket"
+					],
+					[
+						"ca",
+						"ca_defined"
+					],
+					[
+						"src",
+						"srcHost"
+					],
+					[
+						"cl",
+						"clientIPAddress"
+					],
+					[
+						"ent",
+						"entry"
+					],
+					[
+						"en",
+						"entry"
+					],
+					[
+						"slave",
+						"slaveSocket"
+					],
+					[
+						"file",
+						"fileStat"
+					],
+					[
+						"cgi",
+						"cgi-bin"
+					],
+					[
+						"cg",
+						"cgi-bin"
+					],
+					[
+						"ex",
+						"executeCGI"
+					],
+					[
+						"bu",
+						"buffer"
+					],
+					[
+						"re",
+						"resource"
+					],
+					[
+						"fil",
+						"fileStat"
+					],
+					[
+						"get",
+						"getcwd"
+					],
+					[
+						"my",
+						"mystrendswith"
+					],
+					[
+						"d",
+						"dispatch"
+					],
+					[
+						"ope",
+						"openFile"
+					],
+					[
+						"doc",
+						"documentRequested"
+					],
+					[
+						"do",
+						"documentRequested"
+					],
+					[
+						"sl",
+						"slaveSocket"
+					],
+					[
+						"m",
+						"mu"
+					],
+					[
+						"co",
+						"count"
+					],
+					[
+						"pthread",
+						"pthread_mutex_lock"
+					],
+					[
+						"recursive_m",
+						"recursive_mutex_lock"
+					],
+					[
+						"w",
+						"wait_count"
+					],
+					[
+						"yy",
+						"yytext"
 					],
 					[
 						"expa",
@@ -49,10 +426,6 @@
 						"regex_t"
 					],
 					[
-						"yy",
-						"yyerrok"
-					],
-					[
 						"fo",
 						"for"
 					],
@@ -61,20 +434,12 @@
 						"STDOUT_FILENO"
 					],
 					[
-						"_",
-						"_simpleCommands"
-					],
-					[
 						"chil",
 						"childPid"
 					],
 					[
 						"Exec",
 						"execvp"
-					],
-					[
-						"pr",
-						"printf	printf …"
 					],
 					[
 						"def",
@@ -97,10 +462,6 @@
 						"STDERR_FILENO"
 					],
 					[
-						"re",
-						"redirect"
-					],
-					[
 						"out",
 						"outfd"
 					],
@@ -111,10 +472,6 @@
 					[
 						"_n",
 						"_numberOfSimpleCommands"
-					],
-					[
-						"get",
-						"getName"
 					],
 					[
 						"sym",
@@ -153,16 +510,8 @@
 						"inc_node"
 					],
 					[
-						"arg",
-						"arg_node"
-					],
-					[
 						"as",
 						"assignValue"
-					],
-					[
-						"res",
-						"resolved"
 					],
 					[
 						"f",
@@ -181,10 +530,6 @@
 						"resolve"
 					],
 					[
-						"A",
-						"ASTNode"
-					],
-					[
 						"getF",
 						"getFuncName"
 					],
@@ -197,359 +542,23 @@
 						"funcName"
 					],
 					[
-						"cu",
-						"currentFunc"
-					],
-					[
 						"FUN",
 						"FUNC_DECL"
 					],
 					[
-						"nu",
-						"numArgs"
-					],
-					[
-						"num",
-						"numArgs"
-					],
-					[
 						"getA",
 						"getArgNameByIndex"
-					],
-					[
-						"C",
-						"CFLAGS"
-					],
-					[
-						"ast",
-						"ast_decl"
-					],
-					[
-						"c_",
-						"c_args"
-					],
-					[
-						"NO",
-						"nodeType"
-					],
-					[
-						"N",
-						"NUMBER"
-					],
-					[
-						"add",
-						"addArg"
-					],
-					[
-						"node",
-						"nodeType"
-					],
-					[
-						"no",
-						"nodeType"
-					],
-					[
-						"exp",
-						"exprs"
-					],
-					[
-						"Var",
-						"VAR"
-					],
-					[
-						"ex",
-						"exprs"
-					],
-					[
-						"str",
-						"string_val"
-					],
-					[
-						"AST",
-						"ASTNode"
-					],
-					[
-						"cl",
-						"CLOSEPAR"
-					],
-					[
-						"EX",
-						"exprs"
-					],
-					[
-						"ne",
-						"_next"
-					],
-					[
-						"vi",
-						"vDivOther"
-					],
-					[
-						"M",
-						"MEM_HEAP"
-					],
-					[
-						"MEM_",
-						"MEM_STACK"
-					],
-					[
-						"tesr",
-						"test_part2"
-					],
-					[
-						"st",
-						"strdup2"
-					],
-					[
-						"cre",
-						"create_and_free"
-					],
-					[
-						"h",
-						"hamsalad"
-					],
-					[
-						"strd",
-						"strdup32"
-					],
-					[
-						"st1",
-						"str1"
-					],
-					[
-						"tes",
-						"test_queue"
-					],
-					[
-						"de",
-						"dequeue"
-					],
-					[
-						"si",
-						"size_t"
-					],
-					[
-						"wo",
-						"workspace_backup"
-					],
-					[
-						"co",
-						"compFunc"
-					],
-					[
-						"test_",
-						"test_stack"
-					],
-					[
-						"mys",
-						"mystack"
-					],
-					[
-						"test",
-						"test_stack"
-					],
-					[
-						"new",
-						"newNode"
-					],
-					[
-						"Lis",
-						"ListNode"
-					],
-					[
-						"eleme",
-						"elementSize"
-					],
-					[
-						"ele",
-						"elementSize"
-					],
-					[
-						"au",
-						"autoCorrelation"
-					],
-					[
-						"ab",
-						"abAudioData"
-					],
-					[
-						"note",
-						"noteIndexToString"
-					],
-					[
-						"ca",
-						"calcOctave"
-					],
-					[
-						"b",
-						"buildIntervals"
-					],
-					[
-						"getT",
-						"getTripletEighthNoteTicks"
-					],
-					[
-						"getTrip",
-						"getTripletSixteenthNoteTicks"
-					],
-					[
-						"inter",
-						"buildIntervals"
-					],
-					[
-						"midi",
-						"midiNoteIndex"
-					],
-					[
-						"Cr",
-						"ChromaticScale"
-					],
-					[
-						"o",
-						"octave"
-					],
-					[
-						"pri",
-						"println"
-					],
-					[
-						"pl",
-						"playChord"
-					],
-					[
-						"min",
-						"minorSteps"
-					],
-					[
-						"majo",
-						"majorSteps"
-					],
-					[
-						"mi",
-						"minorSteps"
-					],
-					[
-						"Mi",
-						"MidiEditor"
-					],
-					[
-						"m",
-						"majorScale"
-					],
-					[
-						"ma",
-						"majorSteps"
-					],
-					[
-						"String",
-						"StringBuilder"
-					],
-					[
-						"Midi",
-						"MidiMessage"
-					],
-					[
-						"wr",
-						"writer"
-					],
-					[
-						"write",
-						"writeResults"
-					],
-					[
-						"wav",
-						"parsonCodeWav"
-					],
-					[
-						"file",
-						"fileName"
-					],
-					[
-						"Proe",
-						"ProcessBuilder"
-					],
-					[
-						"quer",
-						"queryDatabase"
-					],
-					[
-						"pars",
-						"parsonCode"
-					],
-					[
-						"Str",
-						"StringBuilder"
-					],
-					[
-						"Ke",
-						"KeyEvent"
-					],
-					[
-						"K",
-						"KeyEvent"
-					],
-					[
-						"r",
-						"recording"
-					],
-					[
-						"match",
-						"matchBit"
-					],
-					[
-						"sta",
-						"state"
-					],
-					[
-						"E",
-						"Exception"
-					],
-					[
-						"que",
-						"queryDatabase"
-					],
-					[
-						"St",
-						"StringTokenizer"
-					],
-					[
-						"com",
-						"compOne"
-					],
-					[
-						"l",
-						"len1"
-					],
-					[
-						"rea",
-						"read_buf"
-					],
-					[
-						"read",
-						"read_buf"
-					],
-					[
-						"read_",
-						"read_count"
-					],
-					[
-						"read_buf",
-						"read_buf_size"
-					],
-					[
-						"printU",
-						"printUsage"
-					],
-					[
-						"len",
-						"lenStr2"
 					]
 				]
 			},
-			"build_system": "Packages/C++/C++.sublime-build",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
 				"height": 392.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -602,16 +611,87 @@
 			},
 			"file_history":
 			[
+				"/home/ben/Workspace/PCLLAB/RetrieveTheWhole/consent.php",
+				"/home/ben/Dropbox/dev/rnn_theano/rnn_theano/src/biaxial-rnn-music-composition/multi_training.py",
+				"/home/ben/.config/openbox/autostart",
+				"/home/ben/Dropbox/dev/skipthoughts2/ben_setup_script.py",
+				"/home/ben/Downloads/tor-browser_en-US/Browser/TorBrowser/Data/Tor/torrc",
+				"/home/ben/Dropbox/cs252/lab7-src/list.c",
+				"/home/ben/Dropbox/cs252/lab7-src/Makefile",
+				"/home/ben/Dropbox/cs252/lab7-src/flip.y",
+				"/home/ben/Dropbox/cs252/lab7-src/flip.l",
+				"/home/ben/Dropbox/cs252/lab2-src/test.f",
+				"/home/ben/Dropbox/cs471/hw/hw6",
+				"/home/ben/Dropbox/cs252/lab5-src/myotherhttpd.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/myhttpd.cc",
+				"/home/ben/Dropbox/cs240/projectD/table.h",
+				"/home/ben/Dropbox/cs252/lab7-src/list.h",
+				"/home/ben/Dropbox/cs240/projectD/defs_itf.h",
+				"/home/ben/Dropbox/cs252/lab1-src/a.out",
+				"/home/ben/Dropbox/cs252/lab7-src/List.h",
+				"/home/ben/Dropbox/cs252/lab5-src/buildHTML.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/Makefile",
+				"/home/ben/Dropbox/cs252/lab5-src/myhttpd.h",
+				"/home/ben/Dropbox/cs252/lab5-src/sort.c",
+				"/home/ben/Dropbox/cs251/lab4-src/minihttpd.cpp",
+				"/home/ben/Dropbox/cs252/lab5-src/http-root-dir/htdocs/index.html",
+				"/home/ben/Dropbox/cs252/lab5-src/log",
+				"/home/ben/Dropbox/cs252/lab5-src/log.log",
+				"/home/ben/Dropbox/cs251/lab4-src/search-engine.cpp",
+				"/home/ben/Dropbox/cs252/lab3-src/command.cc",
+				"/home/ben/Dropbox/cs252/lab3-src/shell.y",
+				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/func_decl.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/http-root-dir/cgi-src/Makefile",
+				"/home/ben/Dropbox/cs252/lab5-src/http-root-dir/cgi-src/jj-mod.c",
+				"/home/ben/Dropbox/cs252/lab5-src/daytime-server.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/http-root-dir/cgi-bin/uptime",
+				"/home/ben/Dropbox/cs252/lab5-src/logger.h",
+				"/home/ben/Dropbox/cs240/projectD/rf.c",
+				"/home/ben/Dropbox/cs252/lab5-src/use-dlopen.cc",
+				"/home/ben/Dropbox/ma265/hw7.txt",
+				"/home/ben/Dropbox/cs252/lab3-src/wildcards.cc",
+				"/home/ben/Dropbox/cs251/lab4-src/minihttpd.h",
+				"/home/ben/Dropbox/cs252/lab4-src/recmutex.c",
+				"/home/ben/Dropbox/cs252/lab4-src/recmutex.h",
+				"/home/ben/Dropbox/cs252/lab5-src/cargs.h",
+				"/home/ben/Dropbox/cs252/lab5-src/cargs.c",
+				"/home/ben/Dropbox/cs252/lab5-src/symtab.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/symtab.h",
+				"/home/ben/Dropbox/cs252/lab1-src/Queue.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/Runnable.h",
+				"/home/ben/Dropbox/cs252/lab5-src/optionals.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/table.c",
+				"/home/ben/Dropbox/cs252/lab5-src/table.h",
+				"/home/ben/Dropbox/cs252/lab5-src/HashTableTemplate.h",
+				"/home/ben/Dropbox/cs252/lab5-src/logger.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/RWLock.h",
+				"/home/ben/Dropbox/cs252/lab5-src/RWLock.cc",
+				"/home/ben/Dropbox/cs390/lab1-src/Crawler.java",
+				"/home/ben/Dropbox/cs252/RWLock (Case Conflict (28)).cc",
+				"/home/ben/Dropbox/cs251/lab3-src/MyString.cc",
+				"/home/ben/Dropbox/cs251/lab3-src/webcrawler.cpp",
+				"/home/ben/.zshrc",
+				"/etc/systemd/system/connectionReset.service",
+				"/home/ben/Dropbox/cs252/rwlock.cc",
+				"/home/ben/Dropbox/cs252/RWLock.cc",
+				"/home/ben/Dropbox/cs252/RWLock.h",
+				"/home/ben/Dropbox/cs252/lab4-src/thr1.cc",
+				"/home/ben/Dropbox/cs252/lab4-src/Makefile",
+				"/home/ben/Dropbox/cs252/lab4-src/count_recursive.cc",
+				"/home/ben/Dropbox/cs251/lab4-src/search-engine.h",
+				"/home/ben/.mybin/unblockAndConnect.sh",
+				"/home/ben/.mybin/unblockAndConnectPal.sh",
+				"/home/ben/Dropbox/cs252/BoundedBuffer.cc",
+				"/home/ben/Dropbox/cs252/BoundedBuffer.h",
+				"/home/ben/Dropbox/cs252/lab4-src/strace.out",
+				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test3",
+				"/home/ben/Dropbox/cs252/lab3-src/shell.l",
 				"/home/ben/Dropbox/cs252/lab3-src/test-shell/hah.key",
 				"/home/ben/Dropbox/cs252/lab3-src/regular.cc",
-				"/home/ben/Dropbox/cs252/lab3-src/shell.l",
 				"/home/ben/Dropbox/cs252/lab3-src/Makefile",
 				"/home/ben/Dropbox/cs252/lab3-src/test-shell/Makefile",
-				"/home/ben/Dropbox/cs252/lab3-src/wildcards.cc",
-				"/home/ben/Dropbox/cs252/lab3-src/shell.y",
 				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testall",
 				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test1",
-				"/home/ben/Dropbox/cs252/lab3-src/command.cc",
 				"/home/ben/Dropbox/cs471/hw/hw3.txt",
 				"/home/ben/Dropbox/notes.txt",
 				"/home/ben/Dropbox/numbers.txt",
@@ -651,7 +731,6 @@
 				"/home/ben/Dropbox/cs252/lab3-src/command.h",
 				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test15",
 				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test13",
-				"/home/ben/Dropbox/cs252/lab2-src/test.f",
 				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/ast.cc",
 				"/home/ben/Dropbox/cs252/lab2-src/ast.cc",
 				"/home/ben/Dropbox/cs252/lab2-src/ast.h",
@@ -659,81 +738,11 @@
 				"/home/ben/Dropbox/cs252/lab2-src/fiz.yy",
 				"/home/ben/Dropbox/cs252/lab3-src/readme",
 				"/home/ben/Dropbox/cs307/impromptune/Zong/desktop/build/classes/main/com/xenoage/zong/desktop/io/mp3/out/Mp3ScoreDocFileOutput.class",
-				"/home/ben/Dropbox/cs240/projectD/reader.c",
-				"/home/ben/Dropbox/cs252/lab3-src/out",
-				"/home/ben/Dropbox/cs252/summer fall 2014/detect_cycle.cpp",
-				"/home/ben/Dropbox/cs252/lab3-src/lsgrep.c",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/grammar_tests",
-				"/home/ben/Dropbox/cs252/lab3-src/ctrl-c.cc",
-				"/home/ben/Dropbox/cs471/hw/hw2.txt",
-				"/home/ben/Dropbox/cs307/impromptune/Zong/license.txt",
-				"/home/ben/Dropbox/cs307/impromptune/Zong/readme.md",
-				"/home/ben/Dropbox/cs471/hw/hw1/turnin/ai_writeups_hw#1.txt",
-				"/home/ben/.cache/.fr-JHrNZO/lab3-src-kbd/keyboard-example.c",
-				"/home/ben/.cache/.fr-ZiOHhV/lab3-src-kbd/read-line-example.c",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/README",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/files/aaa",
-				"/home/ben/.cache/.fr-xPCPdl/lab5-src/daytime-server.cc",
-				"/home/ben/Dropbox/cs252/summer fall 2014/lsgrep.c",
-				"/home/ben/.cache/.fr-xApoTT/lab5-src/http-root-dir/cgi-src/util.c",
-				"/home/ben/.cache/.fr-qBOrcj/lab5-src/http-root-dir/cgi-src/imagemap.c",
-				"/home/ben/.cache/.fr-I9AwIM/lab5-src/http-root-dir/cgi-src/jj.c",
-				"/home/ben/.cache/.fr-maDbJ3/lab5-src/http-root-dir/cgi-src/phf.c",
-				"/home/ben/.cache/.fr-WF8FQx/lab5-src/http-root-dir/cgi-src/post-query.c",
-				"/home/ben/.cache/.fr-GBwtMc/lab5-src/http-root-dir/cgi-src/query.c",
-				"/home/ben/.cache/.fr-67qNy1/lab5-src/http-root-dir/cgi-src/util.c",
-				"/home/ben/.cache/.fr-iTDGao/lab5-src/http-root-dir/cgi-src/change-passwd.c",
-				"/home/ben/.cache/.fr-UFWo9N/lab3-src-kbd/read-line.c",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/fiz.yy",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/func_decl.cc",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/func_decl.h",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/Makefile",
-				"/home/ben/Desktop/idea-IU-139.1117.1/Install-Linux-tar.txt",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/ast.h",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/fiz.ll",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/symtab.h",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/symtab.cc",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/test.f",
-				"/home/ben/Dropbox/cs252/calculator_example/ast.cc",
-				"/home/ben/Dropbox/cs252/calculator_example/symtab.cc",
-				"/home/ben/Dropbox/cs252/calculator_example/doc.txt",
-				"/home/ben/Dropbox/cs252/lab2-src/fiz_cpp.yy",
-				"/home/ben/Dropbox/cs252/calculator_example/calculator.y",
-				"/home/ben/Dropbox/cs252/lab1-src/Queue.cc",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/fiz_cpp",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/fiz.output",
-				"/home/ben/Dropbox/cs252/lab2-src/Makefile",
-				"/home/ben/Dropbox/cs252/lab2-src/fiz.ll",
-				"/home/ben/Dropbox/cs471/hw/notes on 2 player ai",
-				"/home/ben/Dropbox/cs252/lab2-src/test_dump.txt",
-				"/home/ben/Dropbox/cs252/lab2-src/fiz_cpp.output",
-				"/home/ben/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/ben/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
-				"/home/ben/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
-				"/home/ben/Dropbox/cs252/lab2-src/symtab.h",
-				"/home/ben/Dropbox/work/NER.java",
-				"/home/ben/Dropbox/cs252/lab1-src/List.cc",
-				"/home/ben/Dropbox/cs252/lab2-src/fiz_cpp.tab.cc",
-				"/home/ben/.cache/.fr-lFtYgM/Source.cpp",
-				"/home/ben/.cache/.fr-ShaTo5/cpp-code/hws/Circle.C",
-				"/home/ben/Dropbox/c repo/count_inversions.c",
-				"/home/ben/.cache/.fr-AUqpgt/cpp-code/mydean/04.Search/C++Code/Search/State.C",
-				"/home/ben/.cache/.fr-yZp9iV/cpp-code/mydean/04.Search/C++Code/Search/ids.C",
-				"/home/ben/Dropbox/cs471/hw/hw1/class MissonariesAndCannibals {",
-				"/home/ben/.cache/.fr-ajl7qj/Source.cpp",
-				"/home/ben/Dropbox/cs252/lab2-src/calculator_example/Makefile",
-				"/home/ben/Dropbox/cs252/lab1-src/pitfalls.cpp",
-				"/home/ben/Dropbox/cs251/lab4-src/search-engine.cpp",
-				"/home/ben/.cache/.fr-qoKoBm/waffleshop.y",
-				"/home/ben/Dropbox/cs252/lab2-src/calculator_example/ast.cc",
-				"/home/ben/Dropbox/cs252/lab2-src/calculator_example/ast.h",
-				"/home/ben/Dropbox/cs252/lab1-src/myclasses.cc",
-				"/home/ben/Dropbox/cs252/lab2-src/calculator_example/calculator.y",
-				"/home/ben/Dropbox/cs252/lab2-src/calculator_example/calculator.l"
+				"/home/ben/Dropbox/cs240/projectD/reader.c"
 			],
 			"find":
 			{
-				"height": 25.0
+				"height": 23.0
 			},
 			"find_in_files":
 			{
@@ -747,134 +756,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"arg",
-					"keybinding",
-					"”",
-					"“",
-					"‘",
-					"yyerror",
-					"yyerr",
-					"yyerrok",
-					"_outputFile",
-					"echo",
-					"kill",
-					"printT",
-					"print",
-					"CREAT",
-					"creat",
-					"comman",
-					"stdout",
-					"background",
-					"backgr",
-					"background",
-					"out",
-					"inFile",
+					"list_node",
+					"head",
 					"resolve",
-					"addS",
-					"Sym",
-					"finds",
-					"find",
-					"symbol",
-					"glob",
-					"erma",
-					"resolve(",
-					"astvar",
-					"assign",
-					"0",
-					"astArg",
-					"2",
-					"0",
-					"resolved",
-					"trace",
-					"numbers",
+					"intResult",
+					"num_list",
+					"app",
+					"prep",
+					"init",
+					"newNode",
+					"cont",
+					"free_tree",
+					"free",
+					"ifz",
+					"ife",
 					"eval",
-					"failed",
-					"get",
-					"resol",
-					"type",
-					"adding",
-					"addin",
-					"add",
-					"shit",
-					"ad",
-					"getTex",
-					"getText",
-					"addarg",
-					"getTex",
-					"addA",
-					"args",
-					"resol",
-					"getTy",
-					"fprint",
-					"astdec",
-					"astinc",
-					"getTe",
-					"gette",
-					"body",
-					"halt",
-					"\n    ",
-					"    class ASTNode *node;\n",
-					"astFunc",
-					"prompt",
-					"l   t",
-					"l	t",
-					"l t",
-					"lt",
-					"yye",
-					"yy",
-					"syntax",
-					"lt",
-					"delete",
-					"body",
-					"AST",
-					"print",
-					"@",
-					"open",
-					"opened",
-					"open",
-					"close",
-					"yyvsp",
-					"error",
+					"struct re",
 					"eval",
-					"yypar",
+					"_value",
+					"value",
+					"unexpected",
+					"resolve",
+					"intvalu",
+					"eval(",
 					"eval",
-					"syntax",
-					"ifzValues",
-					" \n",
-					":\n",
-					"l.",
+					"made it",
+					"stuff",
 					"remove",
-					"_head",
-					"l.",
-					"2",
-					"target",
-					" *&",
-					")s",
-					"S",
-					"s",
-					"pop",
-					"push",
-					" {",
-					"script",
-					"wines",
-					"synth",
-					"wordC",
-					"sp",
-					"movq",
-					"OutputStream stdin = p.getOutputStream();\n		// InputStream stdout = p.getInputStream();\n\n		// BufferedReader reader = new BufferedReader (new InputStreamReader(stdout));\n		// Buf",
-					"}\n",
-					"()];",
-					"rawTF",
-					"compute",
-					"docu",
-					"test",
-					"resultC",
-					"kNN",
-					"resultf",
-					"aNumber",
-					"midifile",
-					"freq",
-					"compute"
+					"openfile",
+					"dispa",
+					"exec",
+					"http-roo",
+					".so",
+					"getparent",
+					"hrefpa",
+					"href",
+					"buildHr",
+					"buildDirectory",
+					"&&",
+					"buildHref",
+					"getParent",
+					"parent",
+					"..",
+					"href",
+					"myh",
+					"row",
+					"adding",
+					"Icon",
+					"404",
+					"if (str",
+					"&&",
+					"buildPa",
+					"file:",
+					"isd",
+					"timetak",
+					"buildTable",
+					"mapto",
+					"fork",
+					"buildP",
+					"buildPa",
+					"strstr",
+					"ststr",
+					"buildPath",
+					"buildPa",
+					"strstr",
+					"buildhref",
+					"href",
+					"stats",
+					"time",
+					"runFunc",
+					"404",
+					"shared",
+					"addTol",
+					"buildstats",
+					"http",
+					"execute",
+					"content-",
+					"my",
+					"executemy",
+					"execute",
+					"exec",
+					"myht",
+					"content",
+					"myhttpd",
+					"http-roo",
+					"str",
+					"uri",
+					"failed",
+					"addTo",
+					"\"log",
+					"log",
+					"open",
+					"text",
+					"Requ",
+					"requ",
+					"fout",
+					"getparent",
+					"fork",
+					"open",
+					"ico",
+					"query",
+					"buildP",
+					"build",
+					"cwd pa",
+					"stat",
+					"file:",
+					"direct",
+					"ico",
+					"icon",
+					"fout",
+					"proce",
+					"openF",
+					"opening",
+					"openFile",
+					"buildTable",
+					"shut",
+					"shutodnw",
+					"fout",
+					"fprint",
+					"ico",
+					"icon",
+					"line",
+					"fdope",
+					"fdopen",
+					"buildPath",
+					"openfile",
+					"open",
+					"path",
+					"pipe"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -891,7 +900,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 25.0
+				"height": 23.0
 			},
 			"input":
 			{
@@ -906,14 +915,16 @@
 			{
 				"height": 0.0
 			},
+			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 46.0
+				"height": 42.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -922,6 +933,7 @@
 			"select_project":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -930,6 +942,7 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -939,13 +952,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 147.0,
+			"side_bar_width": 188.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 960.0
+		"new_window_width": 1424.0
 	},
 	"windows":
 	[
@@ -955,16 +968,380 @@
 				"selected_items":
 				[
 					[
+						"li",
+						"list"
+					],
+					[
+						"lis",
+						"list_head_i"
+					],
+					[
+						"_",
+						"_type"
+					],
+					[
+						"inv",
+						"intValue"
+					],
+					[
+						"ap",
+						"append_i"
+					],
+					[
+						"A",
+						"ARG_NAME"
+					],
+					[
+						"NUM",
+						"NUMBER_NODE"
+					],
+					[
+						"list_",
+						"list_expr"
+					],
+					[
+						"list",
+						"list_destroy"
+					],
+					[
+						"str",
+						"_strValue"
+					],
+					[
+						"arg",
+						"arg_list"
+					],
+					[
+						"new",
+						"newNode"
+					],
+					[
+						"typ",
+						"NODE_TYPE"
+					],
+					[
+						"va",
+						"_intValue"
+					],
+					[
+						"tmp",
+						"tmpList"
+					],
+					[
+						"num",
+						"num_list"
+					],
+					[
+						"nu",
+						"num_list"
+					],
+					[
+						"in",
+						"intResult"
+					],
+					[
+						"res",
+						"result"
+					],
+					[
+						"free",
+						"free_tree"
+					],
+					[
+						"L",
+						"LIST_NODE"
+					],
+					[
+						"NU",
+						"NUMBER"
+					],
+					[
+						"int",
+						"intValue"
+					],
+					[
+						"LIS",
+						"LIST_NODE"
+					],
+					[
+						"List",
+						"ListNode"
+					],
+					[
+						"T",
+						"TAIL"
+					],
+					[
+						"IF",
+						"IFE_NODE"
+					],
+					[
+						"s",
+						"struct	struct"
+					],
+					[
+						"C",
+						"CLOSEPAR"
+					],
+					[
+						"buildH",
+						"buildHrefParent"
+					],
+					[
+						"http",
+						"http-root-dir"
+					],
+					[
+						"buil",
+						"buildTableDir"
+					],
+					[
+						"r",
+						"runningTime"
+					],
+					[
+						"runnin",
+						"runningTime"
+					],
+					[
+						"run",
+						"runTime"
+					],
+					[
+						"thi",
+						"thisTime"
+					],
+					[
+						"riun",
+						"runningTime"
+					],
+					[
+						"clock",
+						"clock_t"
+					],
+					[
+						"max",
+						"maxEntry"
+					],
+					[
+						"ur",
+						"uriRequested"
+					],
+					[
+						"min",
+						"minEntry"
+					],
+					[
+						"t",
+						"t_ns"
+					],
+					[
+						"build",
+						"buildPath"
+					],
+					[
+						"map",
+						"mapToRelative"
+					],
+					[
+						"cu",
+						"currentFile"
+					],
+					[
+						"STD",
+						"stdout"
+					],
+					[
+						"htt",
+						"http-root-dir"
+					],
+					[
+						"p",
+						"parent"
+					],
+					[
+						"ru",
+						"runTime"
+					],
+					[
+						"lo",
+						"logEntry"
+					],
+					[
+						"tim",
+						"timetaken"
+					],
+					[
+						"mu",
+						"pthread_mutex_lock"
+					],
+					[
+						"ma",
+						"mattr"
+					],
+					[
+						"pth",
+						"pthread_mutex_t"
+					],
+					[
+						"st_",
+						"st_size"
+					],
+					[
+						"H",
+						"HTTP"
+					],
+					[
+						"LO",
+						"LogEntry"
+					],
+					[
+						"pr",
+						"printlog"
+					],
+					[
+						"uri",
+						"uriRequested"
+					],
+					[
+						"log",
+						"logTable"
+					],
+					[
+						"add",
+						"addToLog"
+					],
+					[
 						"st",
 						"stderr"
 					],
 					[
-						"yy",
-						"yytext"
+						"jj",
+						"jj-mod"
 					],
 					[
-						"p",
-						"prefix"
+						"con",
+						"continue"
+					],
+					[
+						"std",
+						"stdout"
+					],
+					[
+						"bui",
+						"buildPath"
+					],
+					[
+						"docu",
+						"documentRequested"
+					],
+					[
+						"sock",
+						"socket"
+					],
+					[
+						"ca",
+						"ca_defined"
+					],
+					[
+						"src",
+						"srcHost"
+					],
+					[
+						"cl",
+						"clientIPAddress"
+					],
+					[
+						"ent",
+						"entry"
+					],
+					[
+						"en",
+						"entry"
+					],
+					[
+						"slave",
+						"slaveSocket"
+					],
+					[
+						"file",
+						"fileStat"
+					],
+					[
+						"cgi",
+						"cgi-bin"
+					],
+					[
+						"cg",
+						"cgi-bin"
+					],
+					[
+						"ex",
+						"executeCGI"
+					],
+					[
+						"bu",
+						"buffer"
+					],
+					[
+						"re",
+						"resource"
+					],
+					[
+						"fil",
+						"fileStat"
+					],
+					[
+						"get",
+						"getcwd"
+					],
+					[
+						"my",
+						"mystrendswith"
+					],
+					[
+						"d",
+						"dispatch"
+					],
+					[
+						"ope",
+						"openFile"
+					],
+					[
+						"doc",
+						"documentRequested"
+					],
+					[
+						"do",
+						"documentRequested"
+					],
+					[
+						"sl",
+						"slaveSocket"
+					],
+					[
+						"m",
+						"mu"
+					],
+					[
+						"co",
+						"count"
+					],
+					[
+						"pthread",
+						"pthread_mutex_lock"
+					],
+					[
+						"recursive_m",
+						"recursive_mutex_lock"
+					],
+					[
+						"w",
+						"wait_count"
+					],
+					[
+						"yy",
+						"yytext"
 					],
 					[
 						"expa",
@@ -987,20 +1364,12 @@
 						"STDOUT_FILENO"
 					],
 					[
-						"_",
-						"_simpleCommands"
-					],
-					[
 						"chil",
 						"childPid"
 					],
 					[
 						"Exec",
 						"execvp"
-					],
-					[
-						"pr",
-						"printf	printf …"
 					],
 					[
 						"def",
@@ -1023,10 +1392,6 @@
 						"STDERR_FILENO"
 					],
 					[
-						"re",
-						"redirect"
-					],
-					[
 						"out",
 						"outfd"
 					],
@@ -1037,10 +1402,6 @@
 					[
 						"_n",
 						"_numberOfSimpleCommands"
-					],
-					[
-						"get",
-						"getName"
 					],
 					[
 						"sym",
@@ -1079,16 +1440,8 @@
 						"inc_node"
 					],
 					[
-						"arg",
-						"arg_node"
-					],
-					[
 						"as",
 						"assignValue"
-					],
-					[
-						"res",
-						"resolved"
 					],
 					[
 						"f",
@@ -1107,10 +1460,6 @@
 						"resolve"
 					],
 					[
-						"A",
-						"ASTNode"
-					],
-					[
 						"getF",
 						"getFuncName"
 					],
@@ -1123,358 +1472,27 @@
 						"funcName"
 					],
 					[
-						"cu",
-						"currentFunc"
-					],
-					[
 						"FUN",
 						"FUNC_DECL"
 					],
 					[
-						"nu",
-						"numArgs"
-					],
-					[
-						"num",
-						"numArgs"
-					],
-					[
 						"getA",
 						"getArgNameByIndex"
-					],
-					[
-						"C",
-						"CFLAGS"
-					],
-					[
-						"ast",
-						"ast_decl"
-					],
-					[
-						"c_",
-						"c_args"
-					],
-					[
-						"NO",
-						"nodeType"
-					],
-					[
-						"N",
-						"NUMBER"
-					],
-					[
-						"add",
-						"addArg"
-					],
-					[
-						"node",
-						"nodeType"
-					],
-					[
-						"no",
-						"nodeType"
-					],
-					[
-						"exp",
-						"exprs"
-					],
-					[
-						"Var",
-						"VAR"
-					],
-					[
-						"ex",
-						"exprs"
-					],
-					[
-						"str",
-						"string_val"
-					],
-					[
-						"AST",
-						"ASTNode"
-					],
-					[
-						"cl",
-						"CLOSEPAR"
-					],
-					[
-						"EX",
-						"exprs"
-					],
-					[
-						"ne",
-						"_next"
-					],
-					[
-						"vi",
-						"vDivOther"
-					],
-					[
-						"M",
-						"MEM_HEAP"
-					],
-					[
-						"MEM_",
-						"MEM_STACK"
-					],
-					[
-						"tesr",
-						"test_part2"
-					],
-					[
-						"cre",
-						"create_and_free"
-					],
-					[
-						"h",
-						"hamsalad"
-					],
-					[
-						"strd",
-						"strdup32"
-					],
-					[
-						"st1",
-						"str1"
-					],
-					[
-						"tes",
-						"test_queue"
-					],
-					[
-						"de",
-						"dequeue"
-					],
-					[
-						"si",
-						"size_t"
-					],
-					[
-						"wo",
-						"workspace_backup"
-					],
-					[
-						"co",
-						"compFunc"
-					],
-					[
-						"test_",
-						"test_stack"
-					],
-					[
-						"mys",
-						"mystack"
-					],
-					[
-						"test",
-						"test_stack"
-					],
-					[
-						"new",
-						"newNode"
-					],
-					[
-						"Lis",
-						"ListNode"
-					],
-					[
-						"eleme",
-						"elementSize"
-					],
-					[
-						"ele",
-						"elementSize"
-					],
-					[
-						"au",
-						"autoCorrelation"
-					],
-					[
-						"ab",
-						"abAudioData"
-					],
-					[
-						"note",
-						"noteIndexToString"
-					],
-					[
-						"ca",
-						"calcOctave"
-					],
-					[
-						"b",
-						"buildIntervals"
-					],
-					[
-						"getT",
-						"getTripletEighthNoteTicks"
-					],
-					[
-						"getTrip",
-						"getTripletSixteenthNoteTicks"
-					],
-					[
-						"inter",
-						"buildIntervals"
-					],
-					[
-						"midi",
-						"midiNoteIndex"
-					],
-					[
-						"Cr",
-						"ChromaticScale"
-					],
-					[
-						"o",
-						"octave"
-					],
-					[
-						"pri",
-						"println"
-					],
-					[
-						"pl",
-						"playChord"
-					],
-					[
-						"min",
-						"minorSteps"
-					],
-					[
-						"majo",
-						"majorSteps"
-					],
-					[
-						"mi",
-						"minorSteps"
-					],
-					[
-						"Mi",
-						"MidiEditor"
-					],
-					[
-						"m",
-						"majorScale"
-					],
-					[
-						"ma",
-						"majorSteps"
-					],
-					[
-						"String",
-						"StringBuilder"
-					],
-					[
-						"Midi",
-						"MidiMessage"
-					],
-					[
-						"wr",
-						"writer"
-					],
-					[
-						"write",
-						"writeResults"
-					],
-					[
-						"wav",
-						"parsonCodeWav"
-					],
-					[
-						"file",
-						"fileName"
-					],
-					[
-						"Proe",
-						"ProcessBuilder"
-					],
-					[
-						"quer",
-						"queryDatabase"
-					],
-					[
-						"pars",
-						"parsonCode"
-					],
-					[
-						"Str",
-						"StringBuilder"
-					],
-					[
-						"Ke",
-						"KeyEvent"
-					],
-					[
-						"K",
-						"KeyEvent"
-					],
-					[
-						"r",
-						"recording"
-					],
-					[
-						"match",
-						"matchBit"
-					],
-					[
-						"sta",
-						"state"
-					],
-					[
-						"E",
-						"Exception"
-					],
-					[
-						"que",
-						"queryDatabase"
-					],
-					[
-						"St",
-						"StringTokenizer"
-					],
-					[
-						"com",
-						"compOne"
-					],
-					[
-						"l",
-						"len1"
-					],
-					[
-						"rea",
-						"read_buf"
-					],
-					[
-						"read",
-						"read_buf"
-					],
-					[
-						"read_",
-						"read_count"
-					],
-					[
-						"read_buf",
-						"read_buf_size"
-					],
-					[
-						"printU",
-						"printUsage"
-					],
-					[
-						"len",
-						"lenStr2"
 					]
 				]
 			},
 			"buffers":
 			[
 			],
-			"build_system": "Packages/C++/C++.sublime-build",
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
 				"height": 392.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
@@ -1527,18 +1545,96 @@
 			},
 			"expanded_folders":
 			[
-				"/home/ben/Dropbox/cs252/lab3-src"
+				"/opt/lampp/htdocs/PCLLAB",
+				"/opt/lampp/htdocs/PCLLAB/CriterialRecollection",
+				"/opt/lampp/htdocs/PCLLAB/CriterialRecollection/pages",
+				"/opt/lampp/htdocs/PCLLAB/generic_experiment",
+				"/opt/lampp/htdocs/PCLLAB/generic_experiment/js",
+				"/opt/lampp/htdocs/PCLLAB/generic_experiment/pages",
+				"/opt/lampp/htdocs/PCLLAB/generic_experiment/scripts"
 			],
 			"file_history":
 			[
-				"/home/ben/Dropbox/cs252/lab3-src/wildcards.cc",
+				"/opt/lampp/htdocs/PCLLAB/generic_experiment/scripts/progress-bar.php",
+				"/home/ben/.mybin/unblockAndConnect.sh",
+				"/home/ben/Workspace/PCLLAB/RetrieveTheWhole/consent.php",
+				"/home/ben/Dropbox/dev/rnn_theano/rnn_theano/src/biaxial-rnn-music-composition/multi_training.py",
+				"/home/ben/.config/openbox/autostart",
+				"/home/ben/Dropbox/dev/skipthoughts2/ben_setup_script.py",
+				"/home/ben/Downloads/tor-browser_en-US/Browser/TorBrowser/Data/Tor/torrc",
+				"/home/ben/Dropbox/cs252/lab7-src/list.c",
+				"/home/ben/Dropbox/cs252/lab7-src/Makefile",
+				"/home/ben/Dropbox/cs252/lab7-src/flip.y",
+				"/home/ben/Dropbox/cs252/lab7-src/flip.l",
+				"/home/ben/Dropbox/cs252/lab2-src/test.f",
+				"/home/ben/Dropbox/cs471/hw/hw6",
+				"/home/ben/Dropbox/cs252/lab5-src/myotherhttpd.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/myhttpd.cc",
+				"/home/ben/Dropbox/cs240/projectD/table.h",
+				"/home/ben/Dropbox/cs252/lab7-src/list.h",
+				"/home/ben/Dropbox/cs240/projectD/defs_itf.h",
+				"/home/ben/Dropbox/cs252/lab1-src/a.out",
+				"/home/ben/Dropbox/cs252/lab7-src/List.h",
+				"/home/ben/Dropbox/cs252/lab5-src/buildHTML.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/Makefile",
+				"/home/ben/Dropbox/cs252/lab5-src/myhttpd.h",
+				"/home/ben/Dropbox/cs252/lab5-src/sort.c",
+				"/home/ben/Dropbox/cs251/lab4-src/minihttpd.cpp",
+				"/home/ben/Dropbox/cs252/lab5-src/http-root-dir/htdocs/index.html",
+				"/home/ben/Dropbox/cs252/lab5-src/log",
+				"/home/ben/Dropbox/cs252/lab5-src/log.log",
+				"/home/ben/Dropbox/cs251/lab4-src/search-engine.cpp",
 				"/home/ben/Dropbox/cs252/lab3-src/command.cc",
+				"/home/ben/Dropbox/cs252/lab3-src/shell.y",
+				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/func_decl.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/http-root-dir/cgi-src/Makefile",
+				"/home/ben/Dropbox/cs252/lab5-src/http-root-dir/cgi-src/jj-mod.c",
+				"/home/ben/Dropbox/cs252/lab5-src/daytime-server.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/http-root-dir/cgi-bin/uptime",
+				"/home/ben/Dropbox/cs252/lab5-src/logger.h",
+				"/home/ben/Dropbox/cs240/projectD/rf.c",
+				"/home/ben/Dropbox/cs252/lab5-src/use-dlopen.cc",
+				"/home/ben/Dropbox/ma265/hw7.txt",
+				"/home/ben/Dropbox/cs252/lab3-src/wildcards.cc",
+				"/home/ben/Dropbox/cs251/lab4-src/minihttpd.h",
+				"/home/ben/Dropbox/cs252/lab4-src/recmutex.c",
+				"/home/ben/Dropbox/cs252/lab4-src/recmutex.h",
+				"/home/ben/Dropbox/cs252/lab5-src/cargs.h",
+				"/home/ben/Dropbox/cs252/lab5-src/cargs.c",
+				"/home/ben/Dropbox/cs252/lab5-src/symtab.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/symtab.h",
+				"/home/ben/Dropbox/cs252/lab1-src/Queue.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/Runnable.h",
+				"/home/ben/Dropbox/cs252/lab5-src/optionals.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/table.c",
+				"/home/ben/Dropbox/cs252/lab5-src/table.h",
+				"/home/ben/Dropbox/cs252/lab5-src/HashTableTemplate.h",
+				"/home/ben/Dropbox/cs252/lab5-src/logger.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/RWLock.h",
+				"/home/ben/Dropbox/cs252/lab5-src/RWLock.cc",
+				"/home/ben/Dropbox/cs390/lab1-src/Crawler.java",
+				"/home/ben/Dropbox/cs252/RWLock (Case Conflict (28)).cc",
+				"/home/ben/Dropbox/cs251/lab3-src/MyString.cc",
+				"/home/ben/Dropbox/cs251/lab3-src/webcrawler.cpp",
+				"/home/ben/.zshrc",
+				"/etc/systemd/system/connectionReset.service",
+				"/home/ben/Dropbox/cs252/rwlock.cc",
+				"/home/ben/Dropbox/cs252/RWLock.cc",
+				"/home/ben/Dropbox/cs252/RWLock.h",
+				"/home/ben/Dropbox/cs252/lab4-src/thr1.cc",
+				"/home/ben/Dropbox/cs252/lab4-src/Makefile",
+				"/home/ben/Dropbox/cs252/lab4-src/count_recursive.cc",
+				"/home/ben/Dropbox/cs251/lab4-src/search-engine.h",
+				"/home/ben/.mybin/unblockAndConnectPal.sh",
+				"/home/ben/Dropbox/cs252/BoundedBuffer.cc",
+				"/home/ben/Dropbox/cs252/BoundedBuffer.h",
+				"/home/ben/Dropbox/cs252/lab4-src/strace.out",
+				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test3",
 				"/home/ben/Dropbox/cs252/lab3-src/shell.l",
 				"/home/ben/Dropbox/cs252/lab3-src/test-shell/hah.key",
 				"/home/ben/Dropbox/cs252/lab3-src/regular.cc",
 				"/home/ben/Dropbox/cs252/lab3-src/Makefile",
 				"/home/ben/Dropbox/cs252/lab3-src/test-shell/Makefile",
-				"/home/ben/Dropbox/cs252/lab3-src/shell.y",
 				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testall",
 				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test1",
 				"/home/ben/Dropbox/cs471/hw/hw3.txt",
@@ -1580,89 +1676,17 @@
 				"/home/ben/Dropbox/cs252/lab3-src/command.h",
 				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test15",
 				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test13",
-				"/home/ben/Dropbox/cs252/lab2-src/test.f",
 				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/ast.cc",
 				"/home/ben/Dropbox/cs252/lab2-src/ast.cc",
 				"/home/ben/Dropbox/cs252/lab2-src/ast.h",
 				"/home/ben/Dropbox/cs252/lab2-src/fiz_cpp.ll",
 				"/home/ben/Dropbox/cs252/lab2-src/fiz.yy",
 				"/home/ben/Dropbox/cs252/lab3-src/readme",
-				"/home/ben/Dropbox/cs307/impromptune/Zong/desktop/build/classes/main/com/xenoage/zong/desktop/io/mp3/out/Mp3ScoreDocFileOutput.class",
-				"/home/ben/Dropbox/cs240/projectD/reader.c",
-				"/home/ben/Dropbox/cs252/lab3-src/out",
-				"/home/ben/Dropbox/cs252/summer fall 2014/detect_cycle.cpp",
-				"/home/ben/Dropbox/cs252/lab3-src/lsgrep.c",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/grammar_tests",
-				"/home/ben/Dropbox/cs252/lab3-src/ctrl-c.cc",
-				"/home/ben/Dropbox/cs471/hw/hw2.txt",
-				"/home/ben/Dropbox/cs307/impromptune/Zong/license.txt",
-				"/home/ben/Dropbox/cs307/impromptune/Zong/readme.md",
-				"/home/ben/Dropbox/cs471/hw/hw1/turnin/ai_writeups_hw#1.txt",
-				"/home/ben/.cache/.fr-JHrNZO/lab3-src-kbd/keyboard-example.c",
-				"/home/ben/.cache/.fr-ZiOHhV/lab3-src-kbd/read-line-example.c",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/README",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/files/aaa",
-				"/home/ben/.cache/.fr-xPCPdl/lab5-src/daytime-server.cc",
-				"/home/ben/Dropbox/cs252/summer fall 2014/lsgrep.c",
-				"/home/ben/.cache/.fr-xApoTT/lab5-src/http-root-dir/cgi-src/util.c",
-				"/home/ben/.cache/.fr-qBOrcj/lab5-src/http-root-dir/cgi-src/imagemap.c",
-				"/home/ben/.cache/.fr-I9AwIM/lab5-src/http-root-dir/cgi-src/jj.c",
-				"/home/ben/.cache/.fr-maDbJ3/lab5-src/http-root-dir/cgi-src/phf.c",
-				"/home/ben/.cache/.fr-WF8FQx/lab5-src/http-root-dir/cgi-src/post-query.c",
-				"/home/ben/.cache/.fr-GBwtMc/lab5-src/http-root-dir/cgi-src/query.c",
-				"/home/ben/.cache/.fr-67qNy1/lab5-src/http-root-dir/cgi-src/util.c",
-				"/home/ben/.cache/.fr-iTDGao/lab5-src/http-root-dir/cgi-src/change-passwd.c",
-				"/home/ben/.cache/.fr-UFWo9N/lab3-src-kbd/read-line.c",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/fiz.yy",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/func_decl.cc",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/func_decl.h",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/Makefile",
-				"/home/ben/Desktop/idea-IU-139.1117.1/Install-Linux-tar.txt",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/ast.h",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/fiz.ll",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/symtab.h",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/symtab.cc",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/test.f",
-				"/home/ben/Dropbox/cs252/calculator_example/ast.cc",
-				"/home/ben/Dropbox/cs252/calculator_example/symtab.cc",
-				"/home/ben/Dropbox/cs252/calculator_example/doc.txt",
-				"/home/ben/Dropbox/cs252/lab2-src/fiz_cpp.yy",
-				"/home/ben/Dropbox/cs252/calculator_example/calculator.y",
-				"/home/ben/Dropbox/cs252/lab1-src/Queue.cc",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/fiz_cpp",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/fiz.output",
-				"/home/ben/Dropbox/cs252/lab2-src/Makefile",
-				"/home/ben/Dropbox/cs252/lab2-src/fiz.ll",
-				"/home/ben/Dropbox/cs471/hw/notes on 2 player ai",
-				"/home/ben/Dropbox/cs252/lab2-src/test_dump.txt",
-				"/home/ben/Dropbox/cs252/lab2-src/fiz_cpp.output",
-				"/home/ben/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/ben/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
-				"/home/ben/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
-				"/home/ben/Dropbox/cs252/lab2-src/symtab.h",
-				"/home/ben/Dropbox/work/NER.java",
-				"/home/ben/Dropbox/cs252/lab1-src/List.cc",
-				"/home/ben/Dropbox/cs252/lab2-src/fiz_cpp.tab.cc",
-				"/home/ben/.cache/.fr-lFtYgM/Source.cpp",
-				"/home/ben/.cache/.fr-ShaTo5/cpp-code/hws/Circle.C",
-				"/home/ben/Dropbox/c repo/count_inversions.c",
-				"/home/ben/.cache/.fr-AUqpgt/cpp-code/mydean/04.Search/C++Code/Search/State.C",
-				"/home/ben/.cache/.fr-yZp9iV/cpp-code/mydean/04.Search/C++Code/Search/ids.C",
-				"/home/ben/Dropbox/cs471/hw/hw1/class MissonariesAndCannibals {",
-				"/home/ben/.cache/.fr-ajl7qj/Source.cpp",
-				"/home/ben/Dropbox/cs252/lab2-src/calculator_example/Makefile",
-				"/home/ben/Dropbox/cs252/lab1-src/pitfalls.cpp",
-				"/home/ben/Dropbox/cs251/lab4-src/search-engine.cpp",
-				"/home/ben/.cache/.fr-qoKoBm/waffleshop.y",
-				"/home/ben/Dropbox/cs252/lab2-src/calculator_example/ast.cc",
-				"/home/ben/Dropbox/cs252/lab2-src/calculator_example/ast.h",
-				"/home/ben/Dropbox/cs252/lab1-src/myclasses.cc",
-				"/home/ben/Dropbox/cs252/lab2-src/calculator_example/calculator.y",
-				"/home/ben/Dropbox/cs252/lab2-src/calculator_example/calculator.l"
+				"/home/ben/Dropbox/cs307/impromptune/Zong/desktop/build/classes/main/com/xenoage/zong/desktop/io/mp3/out/Mp3ScoreDocFileOutput.class"
 			],
 			"find":
 			{
-				"height": 25.0
+				"height": 23.0
 			},
 			"find_in_files":
 			{
@@ -1676,134 +1700,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"arg",
-					"keybinding",
-					"”",
-					"“",
-					"‘",
-					"yyerror",
-					"yyerr",
-					"yyerrok",
-					"_outputFile",
-					"echo",
-					"kill",
-					"printT",
-					"print",
-					"CREAT",
-					"creat",
-					"comman",
-					"stdout",
-					"background",
-					"backgr",
-					"background",
-					"out",
-					"inFile",
+					"list_node",
+					"head",
 					"resolve",
-					"addS",
-					"Sym",
-					"finds",
-					"find",
-					"symbol",
-					"glob",
-					"erma",
-					"resolve(",
-					"astvar",
-					"assign",
-					"0",
-					"astArg",
-					"2",
-					"0",
-					"resolved",
-					"trace",
-					"numbers",
+					"intResult",
+					"num_list",
+					"app",
+					"prep",
+					"init",
+					"newNode",
+					"cont",
+					"free_tree",
+					"free",
+					"ifz",
+					"ife",
 					"eval",
-					"failed",
-					"get",
-					"resol",
-					"type",
-					"adding",
-					"addin",
-					"add",
-					"shit",
-					"ad",
-					"getTex",
-					"getText",
-					"addarg",
-					"getTex",
-					"addA",
-					"args",
-					"resol",
-					"getTy",
-					"fprint",
-					"astdec",
-					"astinc",
-					"getTe",
-					"gette",
-					"body",
-					"halt",
-					"\n    ",
-					"    class ASTNode *node;\n",
-					"astFunc",
-					"prompt",
-					"l   t",
-					"l	t",
-					"l t",
-					"lt",
-					"yye",
-					"yy",
-					"syntax",
-					"lt",
-					"delete",
-					"body",
-					"AST",
-					"print",
-					"@",
-					"open",
-					"opened",
-					"open",
-					"close",
-					"yyvsp",
-					"error",
+					"struct re",
 					"eval",
-					"yypar",
+					"_value",
+					"value",
+					"unexpected",
+					"resolve",
+					"intvalu",
+					"eval(",
 					"eval",
-					"syntax",
-					"ifzValues",
-					" \n",
-					":\n",
-					"l.",
+					"made it",
+					"stuff",
 					"remove",
-					"_head",
-					"l.",
-					"2",
-					"target",
-					" *&",
-					")s",
-					"S",
-					"s",
-					"pop",
-					"push",
-					" {",
-					"script",
-					"wines",
-					"synth",
-					"wordC",
-					"sp",
-					"movq",
-					"OutputStream stdin = p.getOutputStream();\n		// InputStream stdout = p.getInputStream();\n\n		// BufferedReader reader = new BufferedReader (new InputStreamReader(stdout));\n		// Buf",
-					"}\n",
-					"()];",
-					"rawTF",
-					"compute",
-					"docu",
-					"test",
-					"resultC",
-					"kNN",
-					"resultf",
-					"aNumber",
-					"midifile",
-					"freq",
-					"compute"
+					"openfile",
+					"dispa",
+					"exec",
+					"http-roo",
+					".so",
+					"getparent",
+					"hrefpa",
+					"href",
+					"buildHr",
+					"buildDirectory",
+					"&&",
+					"buildHref",
+					"getParent",
+					"parent",
+					"..",
+					"href",
+					"myh",
+					"row",
+					"adding",
+					"Icon",
+					"404",
+					"if (str",
+					"&&",
+					"buildPa",
+					"file:",
+					"isd",
+					"timetak",
+					"buildTable",
+					"mapto",
+					"fork",
+					"buildP",
+					"buildPa",
+					"strstr",
+					"ststr",
+					"buildPath",
+					"buildPa",
+					"strstr",
+					"buildhref",
+					"href",
+					"stats",
+					"time",
+					"runFunc",
+					"404",
+					"shared",
+					"addTol",
+					"buildstats",
+					"http",
+					"execute",
+					"content-",
+					"my",
+					"executemy",
+					"execute",
+					"exec",
+					"myht",
+					"content",
+					"myhttpd",
+					"http-roo",
+					"str",
+					"uri",
+					"failed",
+					"addTo",
+					"\"log",
+					"log",
+					"open",
+					"text",
+					"Requ",
+					"requ",
+					"fout",
+					"getparent",
+					"fork",
+					"open",
+					"ico",
+					"query",
+					"buildP",
+					"build",
+					"cwd pa",
+					"stat",
+					"file:",
+					"direct",
+					"ico",
+					"icon",
+					"fout",
+					"proce",
+					"openF",
+					"opening",
+					"openFile",
+					"buildTable",
+					"shut",
+					"shutodnw",
+					"fout",
+					"fprint",
+					"ico",
+					"icon",
+					"line",
+					"fdope",
+					"fdopen",
+					"buildPath",
+					"openfile",
+					"open",
+					"path",
+					"pipe"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1821,8 +1845,7 @@
 			"folders":
 			[
 				{
-					"follow_symlinks": true,
-					"path": "/home/ben/Dropbox/cs252/lab3-src"
+					"path": "/opt/lampp/htdocs/PCLLAB"
 				}
 			],
 			"groups":
@@ -1835,11 +1858,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 25.0
+				"height": 23.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 31.0
 			},
 			"layout":
 			{
@@ -1872,16 +1895,18 @@
 			{
 				"height": 0.0
 			},
-			"position": "0,0,0,0,0,321,0,1281,844,1600,900",
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,62,0,1486,844,1600,900",
 			"project": "",
 			"replace":
 			{
-				"height": 46.0
+				"height": 42.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -1890,6 +1915,7 @@
 			"select_project":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -1898,6 +1924,7 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -1911,12 +1938,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 147.0,
+			"side_bar_width": 188.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 163,
+			"window_id": 170,
 			"workspace_name": ""
 		}
 	],

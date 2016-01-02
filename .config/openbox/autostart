@@ -1,5 +1,6 @@
 tint2 &
 #feh --bg-scale /wallpapers/Tekkon_Kinkreet_by_kaxula.jpg &
+wicd-gtk -t &
 docky &
 conky &
 xpad &

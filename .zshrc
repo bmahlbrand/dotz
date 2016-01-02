@@ -87,6 +87,7 @@ alias kill="kill -9"
 alias toggleMute="pactl set-sink-mute 1 toggle"
 alias connectBlizzard="sudo wpa_supplicant -Dwext -i wlp8s0 -c /etc/wpa_supplicant/blizzard.conf"
 alias sshxinu="ssh bahlbran@xinu21.cs.purdue.edu"
+alias sshafter="ssh root@104.243.32.47"
 
 PERL_MB_OPT="--install_base \"/home/ben/perl5\""; export PERL_MB_OPT;
 PERL_MM_OPT="INSTALL_BASE=/home/ben/perl5"; export PERL_MM_OPT;

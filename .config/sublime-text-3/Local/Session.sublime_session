@@ -1,6 +1,12 @@
 {
 	"folder_history":
 	[
+		"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2",
+		"/run/user/1000/gvfs/sftp:host=104.243.32.47,user=root/home/Elements_Node/v2",
+		"/run/user/1000/gvfs/sftp:host=104.243.32.47,user=root/home/Elements_Node/v2/server",
+		"/mnt/afterburst",
+		"/home/ben/Dropbox/dev/bmahlbrand.github.io",
+		"/mnt",
 		"/home/ben/Dropbox/cs354/xinu-fall2015",
 		"/opt/lampp/htdocs/PCLLAB",
 		"/home/ben/Workspace/PCLLAB/generic_experiment",
@@ -27,11 +33,11 @@
 		"/home/ben/Dropbox/cs251/lab1-src"
 	],
 	"last_version": 3083,
-	"last_window_id": 172,
+	"last_window_id": 183,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1024.0,
+		"new_window_height": 752.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -39,935 +45,17 @@
 				"selected_items":
 				[
 					[
-						"li",
-						"list"
-					],
-					[
-						"lis",
-						"list_head_i"
-					],
-					[
-						"_",
-						"_type"
-					],
-					[
-						"inv",
-						"intValue"
-					],
-					[
-						"ap",
-						"append_i"
-					],
-					[
-						"A",
-						"ARG_NAME"
-					],
-					[
-						"NUM",
-						"NUMBER_NODE"
-					],
-					[
-						"list_",
-						"list_expr"
-					],
-					[
-						"list",
-						"list_destroy"
-					],
-					[
-						"str",
-						"_strValue"
-					],
-					[
-						"arg",
-						"arg_list"
-					],
-					[
-						"new",
-						"newNode"
-					],
-					[
-						"typ",
-						"NODE_TYPE"
-					],
-					[
-						"va",
-						"_intValue"
-					],
-					[
-						"tmp",
-						"tmpList"
-					],
-					[
-						"num",
-						"num_list"
-					],
-					[
-						"nu",
-						"num_list"
-					],
-					[
-						"in",
-						"intResult"
-					],
-					[
-						"res",
-						"result"
-					],
-					[
-						"free",
-						"free_tree"
-					],
-					[
-						"L",
-						"LIST_NODE"
-					],
-					[
-						"NU",
-						"NUMBER"
-					],
-					[
-						"int",
-						"intValue"
-					],
-					[
-						"LIS",
-						"LIST_NODE"
-					],
-					[
-						"List",
-						"ListNode"
-					],
-					[
-						"T",
-						"TAIL"
-					],
-					[
-						"IF",
-						"IFE_NODE"
-					],
-					[
-						"s",
-						"struct	struct"
-					],
-					[
-						"C",
-						"CLOSEPAR"
-					],
-					[
-						"buildH",
-						"buildHrefParent"
-					],
-					[
-						"http",
-						"http-root-dir"
-					],
-					[
-						"buil",
-						"buildTableDir"
-					],
-					[
-						"r",
-						"runningTime"
-					],
-					[
-						"runnin",
-						"runningTime"
-					],
-					[
-						"run",
-						"runTime"
-					],
-					[
-						"thi",
-						"thisTime"
-					],
-					[
-						"riun",
-						"runningTime"
-					],
-					[
-						"clock",
-						"clock_t"
-					],
-					[
-						"max",
-						"maxEntry"
-					],
-					[
-						"ur",
-						"uriRequested"
-					],
-					[
-						"min",
-						"minEntry"
-					],
-					[
-						"t",
-						"t_ns"
-					],
-					[
-						"build",
-						"buildPath"
-					],
-					[
-						"map",
-						"mapToRelative"
-					],
-					[
-						"cu",
-						"currentFile"
-					],
-					[
-						"STD",
-						"stdout"
-					],
-					[
-						"htt",
-						"http-root-dir"
+						"con",
+						"console"
 					],
 					[
 						"p",
-						"parent"
+						"pair1"
 					],
 					[
-						"ru",
-						"runTime"
+						"show",
+						"showDialog"
 					],
-					[
-						"lo",
-						"logEntry"
-					],
-					[
-						"tim",
-						"timetaken"
-					],
-					[
-						"mu",
-						"pthread_mutex_lock"
-					],
-					[
-						"ma",
-						"mattr"
-					],
-					[
-						"pth",
-						"pthread_mutex_t"
-					],
-					[
-						"st_",
-						"st_size"
-					],
-					[
-						"H",
-						"HTTP"
-					],
-					[
-						"LO",
-						"LogEntry"
-					],
-					[
-						"pr",
-						"printlog"
-					],
-					[
-						"uri",
-						"uriRequested"
-					],
-					[
-						"log",
-						"logTable"
-					],
-					[
-						"add",
-						"addToLog"
-					],
-					[
-						"st",
-						"stderr"
-					],
-					[
-						"jj",
-						"jj-mod"
-					],
-					[
-						"con",
-						"continue"
-					],
-					[
-						"std",
-						"stdout"
-					],
-					[
-						"bui",
-						"buildPath"
-					],
-					[
-						"docu",
-						"documentRequested"
-					],
-					[
-						"sock",
-						"socket"
-					],
-					[
-						"ca",
-						"ca_defined"
-					],
-					[
-						"src",
-						"srcHost"
-					],
-					[
-						"cl",
-						"clientIPAddress"
-					],
-					[
-						"ent",
-						"entry"
-					],
-					[
-						"en",
-						"entry"
-					],
-					[
-						"slave",
-						"slaveSocket"
-					],
-					[
-						"file",
-						"fileStat"
-					],
-					[
-						"cgi",
-						"cgi-bin"
-					],
-					[
-						"cg",
-						"cgi-bin"
-					],
-					[
-						"ex",
-						"executeCGI"
-					],
-					[
-						"bu",
-						"buffer"
-					],
-					[
-						"re",
-						"resource"
-					],
-					[
-						"fil",
-						"fileStat"
-					],
-					[
-						"get",
-						"getcwd"
-					],
-					[
-						"my",
-						"mystrendswith"
-					],
-					[
-						"d",
-						"dispatch"
-					],
-					[
-						"ope",
-						"openFile"
-					],
-					[
-						"doc",
-						"documentRequested"
-					],
-					[
-						"do",
-						"documentRequested"
-					],
-					[
-						"sl",
-						"slaveSocket"
-					],
-					[
-						"m",
-						"mu"
-					],
-					[
-						"co",
-						"count"
-					],
-					[
-						"pthread",
-						"pthread_mutex_lock"
-					],
-					[
-						"recursive_m",
-						"recursive_mutex_lock"
-					],
-					[
-						"w",
-						"wait_count"
-					],
-					[
-						"yy",
-						"yytext"
-					],
-					[
-						"expa",
-						"expandWildcard"
-					],
-					[
-						"c",
-						"component"
-					],
-					[
-						"reg_",
-						"regex_t"
-					],
-					[
-						"fo",
-						"for"
-					],
-					[
-						"ST",
-						"STDOUT_FILENO"
-					],
-					[
-						"chil",
-						"childPid"
-					],
-					[
-						"Exec",
-						"execvp"
-					],
-					[
-						"def",
-						"defaultin"
-					],
-					[
-						"prin",
-						"printenv"
-					],
-					[
-						"sim",
-						"_simpleCommands"
-					],
-					[
-						"wait",
-						"waitpid"
-					],
-					[
-						"S",
-						"STDERR_FILENO"
-					],
-					[
-						"out",
-						"outfd"
-					],
-					[
-						"er",
-						"_errFile"
-					],
-					[
-						"_n",
-						"_numberOfSimpleCommands"
-					],
-					[
-						"sym",
-						"foundSymbol"
-					],
-					[
-						"ass",
-						"assignValue"
-					],
-					[
-						"glo",
-						"global_env"
-					],
-					[
-						"AS",
-						"ASTNode"
-					],
-					[
-						"gl",
-						"global_env"
-					],
-					[
-						"set",
-						"setFuncName"
-					],
-					[
-						"ifz",
-						"ifz_node"
-					],
-					[
-						"dec",
-						"dec_node"
-					],
-					[
-						"inc",
-						"inc_node"
-					],
-					[
-						"as",
-						"assignValue"
-					],
-					[
-						"f",
-						"funcName"
-					],
-					[
-						"rs",
-						"resolved"
-					],
-					[
-						"a",
-						"arg_node"
-					],
-					[
-						"reso",
-						"resolve"
-					],
-					[
-						"getF",
-						"getFuncName"
-					],
-					[
-						"func",
-						"funcName"
-					],
-					[
-						"fun",
-						"funcName"
-					],
-					[
-						"FUN",
-						"FUNC_DECL"
-					],
-					[
-						"getA",
-						"getArgNameByIndex"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"lin",
-						"SublimeLinter: Enable Debug Mode"
-					],
-					[
-						"lint",
-						"SublimeLinter: Show All Errors"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 467.0
-			},
-			"console":
-			{
-				"height": 594.0,
-				"history":
-				[
-					"mport urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/home/ben/Code_Geass_[720p,BluRay,x264]_-_gg-THORA/Code_Geass_[720p,BluRay,x264]_-_gg-THORA.md5",
-				"/opt/lampp/htdocs/PCLLAB/generic_experiment/scripts/progress-bar.php",
-				"/home/ben/.mybin/unblockAndConnect.sh",
-				"/home/ben/Workspace/PCLLAB/RetrieveTheWhole/consent.php",
-				"/home/ben/Dropbox/dev/rnn_theano/rnn_theano/src/biaxial-rnn-music-composition/multi_training.py",
-				"/home/ben/.config/openbox/autostart",
-				"/home/ben/Dropbox/dev/skipthoughts2/ben_setup_script.py",
-				"/home/ben/Downloads/tor-browser_en-US/Browser/TorBrowser/Data/Tor/torrc",
-				"/home/ben/Dropbox/cs252/lab7-src/list.c",
-				"/home/ben/Dropbox/cs252/lab7-src/Makefile",
-				"/home/ben/Dropbox/cs252/lab7-src/flip.y",
-				"/home/ben/Dropbox/cs252/lab7-src/flip.l",
-				"/home/ben/Dropbox/cs252/lab2-src/test.f",
-				"/home/ben/Dropbox/cs471/hw/hw6",
-				"/home/ben/Dropbox/cs252/lab5-src/myotherhttpd.cc",
-				"/home/ben/Dropbox/cs252/lab5-src/myhttpd.cc",
-				"/home/ben/Dropbox/cs240/projectD/table.h",
-				"/home/ben/Dropbox/cs252/lab7-src/list.h",
-				"/home/ben/Dropbox/cs240/projectD/defs_itf.h",
-				"/home/ben/Dropbox/cs252/lab1-src/a.out",
-				"/home/ben/Dropbox/cs252/lab7-src/List.h",
-				"/home/ben/Dropbox/cs252/lab5-src/buildHTML.cc",
-				"/home/ben/Dropbox/cs252/lab5-src/Makefile",
-				"/home/ben/Dropbox/cs252/lab5-src/myhttpd.h",
-				"/home/ben/Dropbox/cs252/lab5-src/sort.c",
-				"/home/ben/Dropbox/cs251/lab4-src/minihttpd.cpp",
-				"/home/ben/Dropbox/cs252/lab5-src/http-root-dir/htdocs/index.html",
-				"/home/ben/Dropbox/cs252/lab5-src/log",
-				"/home/ben/Dropbox/cs252/lab5-src/log.log",
-				"/home/ben/Dropbox/cs251/lab4-src/search-engine.cpp",
-				"/home/ben/Dropbox/cs252/lab3-src/command.cc",
-				"/home/ben/Dropbox/cs252/lab3-src/shell.y",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/func_decl.cc",
-				"/home/ben/Dropbox/cs252/lab5-src/http-root-dir/cgi-src/Makefile",
-				"/home/ben/Dropbox/cs252/lab5-src/http-root-dir/cgi-src/jj-mod.c",
-				"/home/ben/Dropbox/cs252/lab5-src/daytime-server.cc",
-				"/home/ben/Dropbox/cs252/lab5-src/http-root-dir/cgi-bin/uptime",
-				"/home/ben/Dropbox/cs252/lab5-src/logger.h",
-				"/home/ben/Dropbox/cs240/projectD/rf.c",
-				"/home/ben/Dropbox/cs252/lab5-src/use-dlopen.cc",
-				"/home/ben/Dropbox/ma265/hw7.txt",
-				"/home/ben/Dropbox/cs252/lab3-src/wildcards.cc",
-				"/home/ben/Dropbox/cs251/lab4-src/minihttpd.h",
-				"/home/ben/Dropbox/cs252/lab4-src/recmutex.c",
-				"/home/ben/Dropbox/cs252/lab4-src/recmutex.h",
-				"/home/ben/Dropbox/cs252/lab5-src/cargs.h",
-				"/home/ben/Dropbox/cs252/lab5-src/cargs.c",
-				"/home/ben/Dropbox/cs252/lab5-src/symtab.cc",
-				"/home/ben/Dropbox/cs252/lab5-src/symtab.h",
-				"/home/ben/Dropbox/cs252/lab1-src/Queue.cc",
-				"/home/ben/Dropbox/cs252/lab5-src/Runnable.h",
-				"/home/ben/Dropbox/cs252/lab5-src/optionals.cc",
-				"/home/ben/Dropbox/cs252/lab5-src/table.c",
-				"/home/ben/Dropbox/cs252/lab5-src/table.h",
-				"/home/ben/Dropbox/cs252/lab5-src/HashTableTemplate.h",
-				"/home/ben/Dropbox/cs252/lab5-src/logger.cc",
-				"/home/ben/Dropbox/cs252/lab5-src/RWLock.h",
-				"/home/ben/Dropbox/cs252/lab5-src/RWLock.cc",
-				"/home/ben/Dropbox/cs390/lab1-src/Crawler.java",
-				"/home/ben/Dropbox/cs252/RWLock (Case Conflict (28)).cc",
-				"/home/ben/Dropbox/cs251/lab3-src/MyString.cc",
-				"/home/ben/Dropbox/cs251/lab3-src/webcrawler.cpp",
-				"/home/ben/.zshrc",
-				"/etc/systemd/system/connectionReset.service",
-				"/home/ben/Dropbox/cs252/rwlock.cc",
-				"/home/ben/Dropbox/cs252/RWLock.cc",
-				"/home/ben/Dropbox/cs252/RWLock.h",
-				"/home/ben/Dropbox/cs252/lab4-src/thr1.cc",
-				"/home/ben/Dropbox/cs252/lab4-src/Makefile",
-				"/home/ben/Dropbox/cs252/lab4-src/count_recursive.cc",
-				"/home/ben/Dropbox/cs251/lab4-src/search-engine.h",
-				"/home/ben/.mybin/unblockAndConnectPal.sh",
-				"/home/ben/Dropbox/cs252/BoundedBuffer.cc",
-				"/home/ben/Dropbox/cs252/BoundedBuffer.h",
-				"/home/ben/Dropbox/cs252/lab4-src/strace.out",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test3",
-				"/home/ben/Dropbox/cs252/lab3-src/shell.l",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/hah.key",
-				"/home/ben/Dropbox/cs252/lab3-src/regular.cc",
-				"/home/ben/Dropbox/cs252/lab3-src/Makefile",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/Makefile",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testall",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test1",
-				"/home/ben/Dropbox/cs471/hw/hw3.txt",
-				"/home/ben/Dropbox/notes.txt",
-				"/home/ben/Dropbox/numbers.txt",
-				"/home/ben/Dropbox/mergesort.cpp",
-				"/home/ben/volwheel-0.2.8/install.sh",
-				"/home/ben/.config/openbox/rc.xml",
-				"/home/ben/.config/openbox/menu.xml",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testio",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testpipes",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testzombies",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testenv",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testwordschars",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testcd",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testwildcards",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testquotesescape",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testctlc",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testrobustness",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testsubshell",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testtilde",
-				"/home/ben/.conky/startconky.sh",
-				"/home/ben/Downloads/Ardis Basic Icon Theme/Ardis Basic Icon Theme/index.theme",
-				"/home/ben/Downloads/Ardis Basic Icon Theme/index.theme",
-				"/home/ben/.cache/.fr-6S3NiM/conkyrings/README",
-				"/home/ben/bin/conky/clock_rings.lua",
-				"/home/ben/.conky/config_0",
-				"/home/ben/Dropbox/cs252/lab3-src/csh-in",
-				"/home/ben/Desktop/conkyrings/startconky.sh",
-				"/home/ben/.cache/.fr-rbvhDB/conkyrings/README",
-				"/home/ben/.cache/.fr-M6INEa/conkyrings/notes",
-				"/home/ben/Dropbox/cs307/impromptune/backup/Composition.java",
-				"/home/ben/Dropbox/cs307/impromptune/backup/NoteHandler.java",
-				"/home/ben/Dropbox/cs307/impromptune/backup/Sandbox.java",
-				"/home/ben/Dropbox/ma265/hw4.txt",
-				"/home/ben/Dropbox/ma265/hw3.txt",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test4",
-				"/home/ben/Dropbox/cs252/lab3-src/README",
-				"/home/ben/Dropbox/cs252/lab3-src/command.h",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test15",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test13",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/ast.cc",
-				"/home/ben/Dropbox/cs252/lab2-src/ast.cc",
-				"/home/ben/Dropbox/cs252/lab2-src/ast.h",
-				"/home/ben/Dropbox/cs252/lab2-src/fiz_cpp.ll",
-				"/home/ben/Dropbox/cs252/lab2-src/fiz.yy",
-				"/home/ben/Dropbox/cs252/lab3-src/readme"
-			],
-			"find":
-			{
-				"height": 34.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"list_node",
-					"head",
-					"resolve",
-					"intResult",
-					"num_list",
-					"app",
-					"prep",
-					"init",
-					"newNode",
-					"cont",
-					"free_tree",
-					"free",
-					"ifz",
-					"ife",
-					"eval",
-					"struct re",
-					"eval",
-					"_value",
-					"value",
-					"unexpected",
-					"resolve",
-					"intvalu",
-					"eval(",
-					"eval",
-					"made it",
-					"stuff",
-					"remove",
-					"openfile",
-					"dispa",
-					"exec",
-					"http-roo",
-					".so",
-					"getparent",
-					"hrefpa",
-					"href",
-					"buildHr",
-					"buildDirectory",
-					"&&",
-					"buildHref",
-					"getParent",
-					"parent",
-					"..",
-					"href",
-					"myh",
-					"row",
-					"adding",
-					"Icon",
-					"404",
-					"if (str",
-					"&&",
-					"buildPa",
-					"file:",
-					"isd",
-					"timetak",
-					"buildTable",
-					"mapto",
-					"fork",
-					"buildP",
-					"buildPa",
-					"strstr",
-					"ststr",
-					"buildPath",
-					"buildPa",
-					"strstr",
-					"buildhref",
-					"href",
-					"stats",
-					"time",
-					"runFunc",
-					"404",
-					"shared",
-					"addTol",
-					"buildstats",
-					"http",
-					"execute",
-					"content-",
-					"my",
-					"executemy",
-					"execute",
-					"exec",
-					"myht",
-					"content",
-					"myhttpd",
-					"http-roo",
-					"str",
-					"uri",
-					"failed",
-					"addTo",
-					"\"log",
-					"log",
-					"open",
-					"text",
-					"Requ",
-					"requ",
-					"fout",
-					"getparent",
-					"fork",
-					"open",
-					"ico",
-					"query",
-					"buildP",
-					"build",
-					"cwd pa",
-					"stat",
-					"file:",
-					"direct",
-					"ico",
-					"icon",
-					"fout",
-					"proce",
-					"openF",
-					"opening",
-					"openFile",
-					"buildTable",
-					"shut",
-					"shutodnw",
-					"fout",
-					"fprint",
-					"ico",
-					"icon",
-					"line",
-					"fdope",
-					"fdopen",
-					"buildPath",
-					"openfile",
-					"open",
-					"path",
-					"pipe"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 23.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 186.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 42.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 188.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 929.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"sv",
 						"service"
@@ -1161,10 +249,6 @@
 						"http-root-dir"
 					],
 					[
-						"p",
-						"parent"
-					],
-					[
 						"ru",
 						"runTime"
 					],
@@ -1223,10 +307,6 @@
 					[
 						"jj",
 						"jj-mod"
-					],
-					[
-						"con",
-						"continue"
 					],
 					[
 						"std",
@@ -1475,56 +555,9 @@
 					[
 						"fun",
 						"funcName"
-					],
-					[
-						"FUN",
-						"FUNC_DECL"
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"contents": "#include <stdio.h>\n#include <sys/types.h>\n#include <sys/socket.h>\n#include <sys/time.h>\n#include <netinet/in.h>\n#include <unistd.h>\n#include <stdlib.h>\n#include <netdb.h>\n#include <string.h>\n\n#include \"inflection.h\"\n\n#ifndef INADDR_NONE\n#define INADDR_NONE     0xffffffff\n#endif  /* INADDR_NONE */\n\n/* Define buffer size */\n\n#define         BUFF_SIZ        2048    /* size of a buffer for a connection    */\n\n/* Define buffer size */\n\n#define         BUFF_SIZ        2048    /* size of a buffer for a connection    */\n\n#define 		SERVICE_COUNT	2\n\nint (*service_func[2]) (char *);\n\nint temp(char *buffer) {\n	int reading = rand() % 1000 + 1;\n	sprintf(*buffer, \"%d\", reading);\n	return strlen(*buffer);\n}\n\nint clk(char *buffer) {\n	time_t t = time(NULL);\n	struct tm tm = *localtime(&t);\n	sprintf(*buffer, \"%d-%d-%d %d:%d:%d\\n\", tm.tm_year + 1900, tm.tm_mon + 1, tm.tm_mday, tm.tm_hour, tm.tm_min, tm.tm_sec);\n	return strlen(*buffer);\n}\n\nint requestHandler() {\n\n}\n\n/********************************************************************************/\n/*                                                                              */\n/* main -- main program for connection clear app to test the inflection server  */\n/*                                                                              */\n/********************************************************************************/\n\nmain (int argc, char *argv[]) {\n\n    int             i;                      /* loop index                   */\n    int             n;                      /* number of chars read         */\n    char            *user, *pass, *svc;     /* given by command line args   */\n    char            host[]=\"xinu00.cs.purdue.edu\";  /* location of server   */\n    char            buffer[100];            /* I/O buffer                   */\n    int             len;                    /* string length temporaries    */\n\n    struct  cmd     *pcmd;                  /* ptr to a registration command*/\n\n    struct  hostent *phe;                   /* pointer to host info. entry  */\n    struct  protoent *ppe;                  /* ptr. to protocol info. entry */\n    struct  sockaddr_in socin;              /* an IPv4 endpoint address     */\n    int     addrlen;                        /* len of a sockaddr_in struct  */\n    int     sock;                           /* descriptor for socket        */\n\n    /* check args */\n\n    if ( (argc != 3) && (argc != 4) ) {\n            fprintf(stderr, \"use is:   ./example_clr user passwd [service]\\n\");\n            exit(1);\n    }\n\n    user = argv[1];\n    pass = argv[2];\n\n    if (strlen(user) > UID_SIZ) {\n            fprintf(stderr, \"user name %s is too long\\n\", user);\n            exit(1);\n    }\n\n    if (strlen(pass) > PASS_SIZ) {\n            fprintf(stderr, \"password %s is too long\\n\", pass);\n            exit(1);\n    }\n\n    if (argc == 4) {\n            svc = argv[3];\n            if (strlen(svc) > SVC_SIZ) {\n                    fprintf(stderr, \"Service name %s is too long\\n\", svc);\n                    exit(1);\n            }\n    } else {\n            svc = NULL;\n    }\n\n    /* Open socket used to connect to inflection server */\n\n    memset(&socin, 0, sizeof(socin));\n    socin.sin_family = AF_INET;\n\n    /* Map host name to IP address or map dotted decimal */\n\n    if ( phe = gethostbyname(host) ) {\n            memcpy(&socin.sin_addr, phe->h_addr, phe->h_length);\n    } else if ( (socin.sin_addr.s_addr = inet_addr(host)) == INADDR_NONE ) {\n            fprintf(stderr, \"can't get host entry for %s\\n\", host);\n            exit(1);\n    }\n\n    socin.sin_port = htons( (unsigned short)TCPPORT );\n    ppe = getprotobyname(\"tcp\");\n\n    /* Create the socket */\n\n    sock = socket(PF_INET, SOCK_STREAM, ppe->p_proto);\n    if (sock < 0) {\n            fprintf(stderr, \"cannot create socket\\n\");\n            exit(1);\n    }\n\n    /* Connect the socket */\n\n    if (connect(sock, (struct sockaddr *)&socin, sizeof(socin)) < 0) {\n            fprintf(stderr, \"can't connect to port %d\\n\", TCPPORT);\n            exit(1);\n    }\n\n\n\n    /* Read the reply from the server */\n\n    n = read(sock, buffer, sizeof(buffer));\n\n    while (n > 0) {\n            buffer[n] = '\\0';\n            printf(\"\\nServer says: %s\\n\",buffer);\n            n = read(sock, buffer, sizeof(buffer));\n    }\n    if (n < 0) {\n            fprintf(stderr, \"error reading from the socket\\n\");\n            exit(1);\n    }\n    printf(\"\\nServer closed the connection\\n\");\n	\n    exit(0);\n}",
-					"file": "/home/ben/Dropbox/cs490es/inflection.c",
-					"file_size": 5127,
-					"file_write_time": 130898668528013599,
-					"settings":
-					{
-						"buffer_size": 4435,
-						"line_ending": "Unix",
-						"name": "#include <stdio.h>"
-					}
-				},
-				{
-					"contents": "#include <stdio.h>\n#include <sys/types.h>\n#include <sys/socket.h>\n#include <sys/time.h>\n#include <netinet/in.h>\n#include <unistd.h>\n#include <stdlib.h>\n#include <netdb.h>\n#include <string.h>\n\n#include \"inflection.h\"\n\n#ifndef INADDR_NONE\n#define INADDR_NONE     0xffffffff\n#endif  /* INADDR_NONE */\n\n/* Define buffer size */\n\n#define         BUFF_SIZ        2048    /* size of a buffer for a connection    */\n\n/* Define buffer size */\n\n#define         BUFF_SIZ        2048    /* size of a buffer for a connection    */\n\n#define 		SERVICE_COUNT	2\n\n\n\nint temp(char *buffer) {\n	int reading = rand() % 1000 + 1;\n	sprintf(*buffer, \"%d\", reading);\n	return strlen(*buffer);\n}\n\nint clk(char *buffer) {\n	time_t t = time(NULL);\n	struct tm tm = *localtime(&t);\n	sprintf(*buffer, \"%d-%d-%d %d:%d:%d\", tm.tm_year + 1900, tm.tm_mon + 1, tm.tm_mday, tm.tm_hour, tm.tm_min, tm.tm_sec);\n	return strlen(*buffer);\n}\n\nint (*service_func[2]) (char *) = {temp, clk};\n\n/*register services*/\nint initRequest(int sock, char *buffer, char *user, char *pass, char *svc) {\n	/* Form a registration command and send */\n	pcmd = (struct cmd *) buffer;\n	pcmd->cmdtype = CMD_REGISTER;\n	/* Add user ID */\n	len = strlen(user);\n	memset(pcmd->cid, ' ', UID_SIZ);\n	memcpy(pcmd->cid, user, len);\n	pcmd->cslash1 = '/';\n	/* Add password */\n	len = strlen(pass);\n	memset(pcmd->cpass, ' ', PASS_SIZ);\n	memcpy(pcmd->cpass, pass, len);\n	pcmd->cslash2 = '/';\n	/* Add service */\n	len = strlen(svc);\n	memset(pcmd->csvc, ' ', SVC_SIZ);\n	memcpy(pcmd->csvc, svc, len);\n	pcmd->dollar  = '$';\n\n	/* Send registration message */\n	send(sock, buffer, sizeof(struct cmd), 0);\n\n	/* Wait for access app to respond by sending data */\n	n = read(sock, buffer, BUFF_SIZ);\n\n	if (n < 0) {\n		fprintf(stderr, \"error reading from the socket\\n\");\n		exit(1);\n	} else if (n == 0) {\n		fprintf(stderr, \"\\nTCP connection was closed before a prompt arrived\\n\");\n		exit(0);\n	}\n\n	/* prompt arrived from access app */\n	buffer[n] = '\\0';\n	fprintf(stderr, \"\\nReceived a prompt: %s\\n\", buffer);\n	/* Send a reply */\n	len = strlen(reply);\n	memcpy(replybuf, reply, len);\n	memcpy(&replybuf[len], buffer, n);\n	send(sock, replybuf, len+n, 0);\n	replybuf[len+n] = '\\0';\n	fprintf(stderr, \"\\nSent a reply: %s\\n\", replybuf);\n}\n\n/*clear services*/\nint teardownRequest(int sock, char *buffer, char *user, char *pass, char *svc) {\n\n	/* Form an connection clear command and send */\n\n	pcmd = (struct cmd *) buffer;\n	pcmd->cmdtype = CMD_CLEAR;\n\n	/* Add user ID */\n\n	len = strlen(user);\n	memset(pcmd->cid, ' ', UID_SIZ);\n	memcpy(pcmd->cid, user, len);\n\n	pcmd->cslash1 = '/';\n\n	/* Add password */\n\n	len = strlen(pass);\n	memset(pcmd->cpass, ' ', PASS_SIZ);\n	memcpy(pcmd->cpass, pass, len);\n\n	pcmd->cslash2 = '/';\n\n	/* Add service */\n\n	memset(pcmd->csvc, ' ', SVC_SIZ);\n	if (svc != NULL) {\n		len = strlen(svc);\n		memcpy(pcmd->csvc, svc, len);\n	}\n\n	pcmd->dollar  = '$';\n\n	/* Send connection clear message */\n\n	return send(sock, buffer, sizeof(struct cmd), 0);\n}\n\n/********************************************************************************/\n/*                                                                              */\n/* main -- main program for connection clear app to test the inflection server  */\n/*                                                                              */\n/********************************************************************************/\n\nmain (int argc, char *argv[]) {\n\n	int             i;                      /* loop index                   */\n	int             n;                      /* number of chars read         */\n	char            *user, *pass, *svc;     /* given by command line args   */\n	char            host[]=\"xinu00.cs.purdue.edu\";  /* location of server   */\n	char            buffer[100];            /* I/O buffer                   */\n	int             len;                    /* string length temporaries    */\n\n	struct  cmd     *pcmd;                  /* ptr to a registration command*/\n\n	struct  hostent *phe;                   /* pointer to host info. entry  */\n	struct  protoent *ppe;                  /* ptr. to protocol info. entry */\n	struct  sockaddr_in socin;              /* an IPv4 endpoint address     */\n	int     addrlen;                        /* len of a sockaddr_in struct  */\n	int     sock;                           /* descriptor for socket        */\n\n	/* check args */\n\n	if ( (argc != 3) && (argc != 4) ) {\n		fprintf(stderr, \"use is:   ./example_clr user passwd [service]\\n\");\n		exit(1);\n	}\n\n	user = argv[1];\n	pass = argv[2];\n\n	if (strlen(user) > UID_SIZ) {\n		fprintf(stderr, \"user name %s is too long\\n\", user);\n		exit(1);\n	}\n\n	if (strlen(pass) > PASS_SIZ) {\n		fprintf(stderr, \"password %s is too long\\n\", pass);\n		exit(1);\n	}\n\n	if (argc == 4) {\n		svc = argv[3];\n		if (strlen(svc) > SVC_SIZ) {\n			fprintf(stderr, \"Service name %s is too long\\n\", svc);\n			exit(1);\n		}\n	} else {\n		svc = NULL;\n	}\n\n	/* Open socket used to connect to inflection server */\n\n	memset(&socin, 0, sizeof(socin));\n	socin.sin_family = AF_INET;\n\n	/* Map host name to IP address or map dotted decimal */\n\n	if ( phe = gethostbyname(host) ) {\n		memcpy(&socin.sin_addr, phe->h_addr, phe->h_length);\n	} else if ( (socin.sin_addr.s_addr = inet_addr(host)) == INADDR_NONE ) {\n		fprintf(stderr, \"can't get host entry for %s\\n\", host);\n		exit(1);\n	}\n\n	socin.sin_port = htons( (unsigned short)TCPPORT );\n	ppe = getprotobyname(\"tcp\");\n\n	/* Create the socket */\n\n	sock = socket(PF_INET, SOCK_STREAM, ppe->p_proto);\n	if (sock < 0) {\n		fprintf(stderr, \"cannot create socket\\n\");\n		exit(1);\n	}\n\n	/* Connect the socket */\n\n	if (connect(sock, (struct sockaddr *)&socin, sizeof(socin)) < 0) {\n		fprintf(stderr, \"can't connect to port %d\\n\", TCPPORT);\n		exit(1);\n	}\n\n	initRequest(sock, &buffer, user, pass, svc);\n\n	while (1) {\n\n		/* Read the reply from the server */\n		n = read(sock, buffer, sizeof(buffer));\n\n		while (n > 0) {\n			buffer[n] = '\\0';\n			printf(\"\\nServer says: %s\\n\",buffer);\n			n = read(sock, buffer, sizeof(buffer));\n		}\n\n		if (n < 0) {\n			fprintf(stderr, \"error reading from the socket\\n\");\n			//exit(1);\n		}\n	}\n\n	fprintf(stderr, \"\\nClosing the TCP connection.\\n\");\n	close(sock);\n	printf(\"\\nServer closed the connection\\n\");\n	\n	exit(0);\n}",
-					"file": "/home/ben/Dropbox/cs490es/inflection_service_server.c",
-					"file_size": 6178,
-					"file_write_time": 130898759593293208,
-					"settings":
-					{
-						"buffer_size": 6178,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/ben/Dropbox/cs252/lab5-src/myhttpd.cc",
-					"settings":
-					{
-						"buffer_size": 8020,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/ben/Dropbox/cs252/lab5-src/myotherhttpd.cc",
-					"settings":
-					{
-						"buffer_size": 26931,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
@@ -1585,13 +618,61 @@
 			},
 			"file_history":
 			[
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47,user=root/home/Elements_Node/v2/client/src/app/study/study.ctrl.js",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47,user=root/home/Elements_Node/v2/client/src/app/shared/header/header.tpl.html",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47,user=root/home/Elements_Node/v2/client/src/app/study/study.tpl.html",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47,user=root/home/Elements_Node/v2/client/src/app/study/study.js",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47,user=root/home/Elements_Node/v2/client/src/app/stacks/stacks.ctrl.js",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47,user=root/home/Elements_Node/v2/server/src/controllers/study.js",
+				"/home/ben/.config/openbox/autostart",
+				"/mnt/afterburst/v2/client/src/app/stacks/stacks.ctrl.js",
+				"/mnt/afterburst/v2/client/src/app/stacks/stacks.service.js",
+				"/mnt/afterburst/v2/server/src/models/stage.js",
+				"/mnt/afterburst/v2/server/src/controllers/stages.js",
+				"/mnt/afterburst/v2/server/src/models/phase.js",
+				"/mnt/afterburst/v2/client/src/app/stacks/stacksCreationDialog.tpl.html",
+				"/mnt/afterburst/v2/server/package.json",
+				"/mnt/afterburst/v2/server/src/models/studySession.js",
+				"/mnt/afterburst/v2/client/src/app/stacks/stacks.tpl.html",
+				"/mnt/afterburst/v2/server/src/models/stack.js",
+				"/mnt/afterburst/v2/client/src/app/stacks/stacksDialog.ctrl.js",
+				"/mnt/afterburst/v2/client/src/app/stacks/dialog.js",
+				"/mnt/afterburst/v2/client/src/sass/main.scss",
+				"/mnt/afterburst/v2/server/src/controllers/stack.js",
+				"/mnt/afterburst/v2/client/src/app/stacks/stackCreation.ctrl.js",
+				"/mnt/afterburst/v2/client/src/app/shared/footer/footer.tpl.html",
+				"/mnt/afterburst/v2/client/src/app/shared/header/header.tpl.html",
+				"/mnt/afterburst/v2/server/src/models/user.js",
+				"/mnt/afterburst/v2/client/src/app/preferences/preferences.tpl.html",
+				"/mnt/afterburst/v2/server/src/controllers/preferences.js",
+				"/mnt/afterburst/v2/client/src/app/stacks/stacks.js",
+				"/mnt/afterburst/v2/client/src/app/preferences/preferences.service.js",
+				"/mnt/afterburst/v2/client/src/app/app.js",
+				"/mnt/afterburst/v2/client/src/app/preferences/preferences.ctrl.js",
+				"/mnt/afterburst/v2/client/src/app/preferences/preferences.js",
+				"/mnt/afterburst/v2/client/index.html",
+				"/mnt/afterburst/src/controllers/user/user.js",
+				"/mnt/afterburst/v2/client/src/app/utils/constants.js",
+				"/mnt/afterburst/v2/server/src/models/permissions.js",
+				"/mnt/afterburst/v2/server/src/controllers/experiment.js",
+				"/mnt/afterburst/v2/server/src/models/card.js",
+				"/mnt/afterburst/v2/server/src/models/preferences.js",
+				"/home/ben/Dropbox/dev/shell scripts/node_env_setup_ubuntu.sh",
+				"/mnt/afterburst/v2/server/src/models/group.js",
+				"/mnt/afterburst/v2/server/config/database.js",
+				"/mnt/afterburst/dist/css/admin.min.css",
+				"/mnt/afterburst/src/views/user/stacks.jade",
+				"/mnt/afterburst/resources/js/admin.js",
+				"/mnt/afterburst/package.json",
+				"/mnt/afterburst/v2/app/src/admin/index.js",
+				"/mnt/afterburst/src/controllers/user/stacks.js",
+				"/mnt/afterburst/src/views/user/stack.jade",
 				"/home/ben/.conkyrc",
 				"/home/ben/Code_Geass_[720p,BluRay,x264]_-_gg-THORA/Code_Geass_[720p,BluRay,x264]_-_gg-THORA.md5",
 				"/opt/lampp/htdocs/PCLLAB/generic_experiment/scripts/progress-bar.php",
 				"/home/ben/.mybin/unblockAndConnect.sh",
 				"/home/ben/Workspace/PCLLAB/RetrieveTheWhole/consent.php",
 				"/home/ben/Dropbox/dev/rnn_theano/rnn_theano/src/biaxial-rnn-music-composition/multi_training.py",
-				"/home/ben/.config/openbox/autostart",
 				"/home/ben/Dropbox/dev/skipthoughts2/ben_setup_script.py",
 				"/home/ben/Downloads/tor-browser_en-US/Browser/TorBrowser/Data/Tor/torrc",
 				"/home/ben/Dropbox/cs252/lab7-src/list.c",
@@ -1664,72 +745,75 @@
 				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test3",
 				"/home/ben/Dropbox/cs252/lab3-src/shell.l",
 				"/home/ben/Dropbox/cs252/lab3-src/test-shell/hah.key",
-				"/home/ben/Dropbox/cs252/lab3-src/regular.cc",
-				"/home/ben/Dropbox/cs252/lab3-src/Makefile",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/Makefile",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testall",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test1",
-				"/home/ben/Dropbox/cs471/hw/hw3.txt",
-				"/home/ben/Dropbox/notes.txt",
-				"/home/ben/Dropbox/numbers.txt",
-				"/home/ben/Dropbox/mergesort.cpp",
-				"/home/ben/volwheel-0.2.8/install.sh",
-				"/home/ben/.config/openbox/rc.xml",
-				"/home/ben/.config/openbox/menu.xml",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testio",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testpipes",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testzombies",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testenv",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testwordschars",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testcd",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testwildcards",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testquotesescape",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testctlc",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testrobustness",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testsubshell",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/testtilde",
-				"/home/ben/.conky/startconky.sh",
-				"/home/ben/Downloads/Ardis Basic Icon Theme/Ardis Basic Icon Theme/index.theme",
-				"/home/ben/Downloads/Ardis Basic Icon Theme/index.theme",
-				"/home/ben/.cache/.fr-6S3NiM/conkyrings/README",
-				"/home/ben/bin/conky/clock_rings.lua",
-				"/home/ben/.conky/config_0",
-				"/home/ben/Dropbox/cs252/lab3-src/csh-in",
-				"/home/ben/Desktop/conkyrings/startconky.sh",
-				"/home/ben/.cache/.fr-rbvhDB/conkyrings/README",
-				"/home/ben/.cache/.fr-M6INEa/conkyrings/notes",
-				"/home/ben/Dropbox/cs307/impromptune/backup/Composition.java",
-				"/home/ben/Dropbox/cs307/impromptune/backup/NoteHandler.java",
-				"/home/ben/Dropbox/cs307/impromptune/backup/Sandbox.java",
-				"/home/ben/Dropbox/ma265/hw4.txt",
-				"/home/ben/Dropbox/ma265/hw3.txt",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test4",
-				"/home/ben/Dropbox/cs252/lab3-src/README",
-				"/home/ben/Dropbox/cs252/lab3-src/command.h",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test15",
-				"/home/ben/Dropbox/cs252/lab3-src/test-shell/test13",
-				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/ast.cc",
-				"/home/ben/Dropbox/cs252/lab2-src/ast.cc",
-				"/home/ben/Dropbox/cs252/lab2-src/ast.h",
-				"/home/ben/Dropbox/cs252/lab2-src/fiz_cpp.ll",
-				"/home/ben/Dropbox/cs252/lab2-src/fiz.yy"
+				"/home/ben/Dropbox/cs252/lab3-src/regular.cc"
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 23.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 90.0,
 				"where_history":
 				[
+					"/mnt/afterburst/v2/client/src/app/",
+					""
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					"Stacks",
+					"stacks",
+					"Project",
+					"currentIndex",
+					"projectList",
+					"setProject",
+					"studySession",
+					"Stage",
+					"(",
+					"creat",
+					"register",
+					"Generic_Experiment_Node",
+					"card",
+					"h1",
+					"+\n",
+					"'",
+					"id",
+					"\\\"",
+					"name",
+					"'",
+					"('",
+					"\"",
+					"stacks",
+					"HomeController",
+					"Stack",
+					"Stacks",
+					"stack",
+					"Stack",
+					"stack",
+					"StackService",
+					"experiment",
+					"Experiments",
+					"experiments",
+					"Experiments",
+					"experiment",
+					"stacks",
+					"experiments",
+					"Experiment",
+					"Experiments",
+					"ExperimentsCtrl",
+					"experiments",
+					"Stack",
+					"HomeCtrl",
+					"home",
+					"HomeController",
+					"experiment",
+					"experiments",
+					"Experiment",
+					"experiment",
 					"^[0-9][0-9][0-9]",
 					"100",
 					"^ [0-9][0-9]",
@@ -1808,56 +892,7 @@
 					"addTol",
 					"buildstats",
 					"http",
-					"execute",
-					"content-",
-					"my",
-					"executemy",
-					"execute",
-					"exec",
-					"myht",
-					"content",
-					"myhttpd",
-					"http-roo",
-					"str",
-					"uri",
-					"failed",
-					"addTo",
-					"\"log",
-					"log",
-					"open",
-					"text",
-					"Requ",
-					"requ",
-					"fout",
-					"getparent",
-					"fork",
-					"open",
-					"ico",
-					"query",
-					"buildP",
-					"build",
-					"cwd pa",
-					"stat",
-					"file:",
-					"direct",
-					"ico",
-					"icon",
-					"fout",
-					"proce",
-					"openF",
-					"opening",
-					"openFile",
-					"buildTable",
-					"shut",
-					"shutodnw",
-					"fout",
-					"fprint",
-					"ico",
-					"icon",
-					"line",
-					"fdope",
-					"fdopen",
-					"buildPath"
+					"execute"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1872,6 +907,986 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 186.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 272.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 262.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1012.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"con",
+						"console"
+					],
+					[
+						"p",
+						"pair1"
+					],
+					[
+						"show",
+						"showDialog"
+					],
+					[
+						"sv",
+						"service"
+					],
+					[
+						"li",
+						"list"
+					],
+					[
+						"lis",
+						"list_head_i"
+					],
+					[
+						"_",
+						"_type"
+					],
+					[
+						"inv",
+						"intValue"
+					],
+					[
+						"ap",
+						"append_i"
+					],
+					[
+						"A",
+						"ARG_NAME"
+					],
+					[
+						"NUM",
+						"NUMBER_NODE"
+					],
+					[
+						"list_",
+						"list_expr"
+					],
+					[
+						"list",
+						"list_destroy"
+					],
+					[
+						"str",
+						"_strValue"
+					],
+					[
+						"arg",
+						"arg_list"
+					],
+					[
+						"new",
+						"newNode"
+					],
+					[
+						"typ",
+						"NODE_TYPE"
+					],
+					[
+						"va",
+						"_intValue"
+					],
+					[
+						"tmp",
+						"tmpList"
+					],
+					[
+						"num",
+						"num_list"
+					],
+					[
+						"nu",
+						"num_list"
+					],
+					[
+						"in",
+						"intResult"
+					],
+					[
+						"res",
+						"result"
+					],
+					[
+						"free",
+						"free_tree"
+					],
+					[
+						"L",
+						"LIST_NODE"
+					],
+					[
+						"NU",
+						"NUMBER"
+					],
+					[
+						"int",
+						"intValue"
+					],
+					[
+						"LIS",
+						"LIST_NODE"
+					],
+					[
+						"List",
+						"ListNode"
+					],
+					[
+						"T",
+						"TAIL"
+					],
+					[
+						"IF",
+						"IFE_NODE"
+					],
+					[
+						"s",
+						"struct	struct"
+					],
+					[
+						"C",
+						"CLOSEPAR"
+					],
+					[
+						"buildH",
+						"buildHrefParent"
+					],
+					[
+						"http",
+						"http-root-dir"
+					],
+					[
+						"buil",
+						"buildTableDir"
+					],
+					[
+						"r",
+						"runningTime"
+					],
+					[
+						"runnin",
+						"runningTime"
+					],
+					[
+						"run",
+						"runTime"
+					],
+					[
+						"thi",
+						"thisTime"
+					],
+					[
+						"riun",
+						"runningTime"
+					],
+					[
+						"clock",
+						"clock_t"
+					],
+					[
+						"max",
+						"maxEntry"
+					],
+					[
+						"ur",
+						"uriRequested"
+					],
+					[
+						"min",
+						"minEntry"
+					],
+					[
+						"t",
+						"t_ns"
+					],
+					[
+						"build",
+						"buildPath"
+					],
+					[
+						"map",
+						"mapToRelative"
+					],
+					[
+						"cu",
+						"currentFile"
+					],
+					[
+						"STD",
+						"stdout"
+					],
+					[
+						"htt",
+						"http-root-dir"
+					],
+					[
+						"ru",
+						"runTime"
+					],
+					[
+						"lo",
+						"logEntry"
+					],
+					[
+						"tim",
+						"timetaken"
+					],
+					[
+						"mu",
+						"pthread_mutex_lock"
+					],
+					[
+						"ma",
+						"mattr"
+					],
+					[
+						"pth",
+						"pthread_mutex_t"
+					],
+					[
+						"st_",
+						"st_size"
+					],
+					[
+						"H",
+						"HTTP"
+					],
+					[
+						"LO",
+						"LogEntry"
+					],
+					[
+						"pr",
+						"printlog"
+					],
+					[
+						"uri",
+						"uriRequested"
+					],
+					[
+						"log",
+						"logTable"
+					],
+					[
+						"add",
+						"addToLog"
+					],
+					[
+						"st",
+						"stderr"
+					],
+					[
+						"jj",
+						"jj-mod"
+					],
+					[
+						"std",
+						"stdout"
+					],
+					[
+						"bui",
+						"buildPath"
+					],
+					[
+						"docu",
+						"documentRequested"
+					],
+					[
+						"sock",
+						"socket"
+					],
+					[
+						"ca",
+						"ca_defined"
+					],
+					[
+						"src",
+						"srcHost"
+					],
+					[
+						"cl",
+						"clientIPAddress"
+					],
+					[
+						"ent",
+						"entry"
+					],
+					[
+						"en",
+						"entry"
+					],
+					[
+						"slave",
+						"slaveSocket"
+					],
+					[
+						"file",
+						"fileStat"
+					],
+					[
+						"cgi",
+						"cgi-bin"
+					],
+					[
+						"cg",
+						"cgi-bin"
+					],
+					[
+						"ex",
+						"executeCGI"
+					],
+					[
+						"bu",
+						"buffer"
+					],
+					[
+						"re",
+						"resource"
+					],
+					[
+						"fil",
+						"fileStat"
+					],
+					[
+						"get",
+						"getcwd"
+					],
+					[
+						"my",
+						"mystrendswith"
+					],
+					[
+						"d",
+						"dispatch"
+					],
+					[
+						"ope",
+						"openFile"
+					],
+					[
+						"doc",
+						"documentRequested"
+					],
+					[
+						"do",
+						"documentRequested"
+					],
+					[
+						"sl",
+						"slaveSocket"
+					],
+					[
+						"m",
+						"mu"
+					],
+					[
+						"co",
+						"count"
+					],
+					[
+						"pthread",
+						"pthread_mutex_lock"
+					],
+					[
+						"recursive_m",
+						"recursive_mutex_lock"
+					],
+					[
+						"w",
+						"wait_count"
+					],
+					[
+						"yy",
+						"yytext"
+					],
+					[
+						"expa",
+						"expandWildcard"
+					],
+					[
+						"c",
+						"component"
+					],
+					[
+						"reg_",
+						"regex_t"
+					],
+					[
+						"fo",
+						"for"
+					],
+					[
+						"ST",
+						"STDOUT_FILENO"
+					],
+					[
+						"chil",
+						"childPid"
+					],
+					[
+						"Exec",
+						"execvp"
+					],
+					[
+						"def",
+						"defaultin"
+					],
+					[
+						"prin",
+						"printenv"
+					],
+					[
+						"sim",
+						"_simpleCommands"
+					],
+					[
+						"wait",
+						"waitpid"
+					],
+					[
+						"S",
+						"STDERR_FILENO"
+					],
+					[
+						"out",
+						"outfd"
+					],
+					[
+						"er",
+						"_errFile"
+					],
+					[
+						"_n",
+						"_numberOfSimpleCommands"
+					],
+					[
+						"sym",
+						"foundSymbol"
+					],
+					[
+						"ass",
+						"assignValue"
+					],
+					[
+						"glo",
+						"global_env"
+					],
+					[
+						"AS",
+						"ASTNode"
+					],
+					[
+						"gl",
+						"global_env"
+					],
+					[
+						"set",
+						"setFuncName"
+					],
+					[
+						"ifz",
+						"ifz_node"
+					],
+					[
+						"dec",
+						"dec_node"
+					],
+					[
+						"inc",
+						"inc_node"
+					],
+					[
+						"as",
+						"assignValue"
+					],
+					[
+						"f",
+						"funcName"
+					],
+					[
+						"rs",
+						"resolved"
+					],
+					[
+						"a",
+						"arg_node"
+					],
+					[
+						"reso",
+						"resolve"
+					],
+					[
+						"getF",
+						"getFuncName"
+					],
+					[
+						"func",
+						"funcName"
+					],
+					[
+						"fun",
+						"funcName"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/recall/recall.ctrl.js",
+					"settings":
+					{
+						"buffer_size": 3429,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/stacks/stacksCreationDialog.tpl.html",
+					"settings":
+					{
+						"buffer_size": 3182,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/stacks/stacks.ctrl.js",
+					"settings":
+					{
+						"buffer_size": 4244,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"lin",
+						"SublimeLinter: Enable Debug Mode"
+					],
+					[
+						"lint",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 594.0,
+				"history":
+				[
+					"mport urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/recall",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/shared",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/stacks",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/study",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/server",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/server/src",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/server/src/models"
+			],
+			"file_history":
+			[
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/recall/recall.tpl.html",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/study/study.ctrl.js",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/recall/recall.ctrl.js",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/index.html",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/bootstrap.js",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/package.json",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/app.js",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/recall/recall.js",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/study/study.tpl.html",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/preferences/preferences.tpl.html",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/sass/main.scss",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/stacks/stacksCreationDialog.tpl.html",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/stacks/stacks.js",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/study/study.js",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47,user=root/home/Elements_Node/v2/client/src/app/study/study.ctrl.js",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47,user=root/home/Elements_Node/v2/client/src/app/shared/header/header.tpl.html",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47,user=root/home/Elements_Node/v2/client/src/app/study/study.tpl.html",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47,user=root/home/Elements_Node/v2/client/src/app/study/study.js",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47,user=root/home/Elements_Node/v2/client/src/app/stacks/stacks.ctrl.js",
+				"/run/user/1000/gvfs/sftp:host=104.243.32.47,user=root/home/Elements_Node/v2/server/src/controllers/study.js",
+				"/home/ben/.config/openbox/autostart",
+				"/mnt/afterburst/v2/client/src/app/stacks/stacks.ctrl.js",
+				"/mnt/afterburst/v2/client/src/app/stacks/stacks.service.js",
+				"/mnt/afterburst/v2/server/src/models/stage.js",
+				"/mnt/afterburst/v2/server/src/controllers/stages.js",
+				"/mnt/afterburst/v2/server/src/models/phase.js",
+				"/mnt/afterburst/v2/client/src/app/stacks/stacksCreationDialog.tpl.html",
+				"/mnt/afterburst/v2/server/package.json",
+				"/mnt/afterburst/v2/server/src/models/studySession.js",
+				"/mnt/afterburst/v2/client/src/app/stacks/stacks.tpl.html",
+				"/mnt/afterburst/v2/server/src/models/stack.js",
+				"/mnt/afterburst/v2/client/src/app/stacks/stacksDialog.ctrl.js",
+				"/mnt/afterburst/v2/client/src/app/stacks/dialog.js",
+				"/mnt/afterburst/v2/client/src/sass/main.scss",
+				"/mnt/afterburst/v2/server/src/controllers/stack.js",
+				"/mnt/afterburst/v2/client/src/app/stacks/stackCreation.ctrl.js",
+				"/mnt/afterburst/v2/client/src/app/shared/footer/footer.tpl.html",
+				"/mnt/afterburst/v2/client/src/app/shared/header/header.tpl.html",
+				"/mnt/afterburst/v2/server/src/models/user.js",
+				"/mnt/afterburst/v2/client/src/app/preferences/preferences.tpl.html",
+				"/mnt/afterburst/v2/server/src/controllers/preferences.js",
+				"/mnt/afterburst/v2/client/src/app/stacks/stacks.js",
+				"/mnt/afterburst/v2/client/src/app/preferences/preferences.service.js",
+				"/mnt/afterburst/v2/client/src/app/app.js",
+				"/mnt/afterburst/v2/client/src/app/preferences/preferences.ctrl.js",
+				"/mnt/afterburst/v2/client/src/app/preferences/preferences.js",
+				"/mnt/afterburst/v2/client/index.html",
+				"/mnt/afterburst/src/controllers/user/user.js",
+				"/mnt/afterburst/v2/client/src/app/utils/constants.js",
+				"/mnt/afterburst/v2/server/src/models/permissions.js",
+				"/mnt/afterburst/v2/server/src/controllers/experiment.js",
+				"/mnt/afterburst/v2/server/src/models/card.js",
+				"/mnt/afterburst/v2/server/src/models/preferences.js",
+				"/home/ben/Dropbox/dev/shell scripts/node_env_setup_ubuntu.sh",
+				"/mnt/afterburst/v2/server/src/models/group.js",
+				"/mnt/afterburst/v2/server/config/database.js",
+				"/mnt/afterburst/dist/css/admin.min.css",
+				"/mnt/afterburst/src/views/user/stacks.jade",
+				"/mnt/afterburst/resources/js/admin.js",
+				"/mnt/afterburst/package.json",
+				"/mnt/afterburst/v2/app/src/admin/index.js",
+				"/mnt/afterburst/src/controllers/user/stacks.js",
+				"/mnt/afterburst/src/views/user/stack.jade",
+				"/home/ben/.conkyrc",
+				"/home/ben/Code_Geass_[720p,BluRay,x264]_-_gg-THORA/Code_Geass_[720p,BluRay,x264]_-_gg-THORA.md5",
+				"/opt/lampp/htdocs/PCLLAB/generic_experiment/scripts/progress-bar.php",
+				"/home/ben/.mybin/unblockAndConnect.sh",
+				"/home/ben/Workspace/PCLLAB/RetrieveTheWhole/consent.php",
+				"/home/ben/Dropbox/dev/rnn_theano/rnn_theano/src/biaxial-rnn-music-composition/multi_training.py",
+				"/home/ben/Dropbox/dev/skipthoughts2/ben_setup_script.py",
+				"/home/ben/Downloads/tor-browser_en-US/Browser/TorBrowser/Data/Tor/torrc",
+				"/home/ben/Dropbox/cs252/lab7-src/list.c",
+				"/home/ben/Dropbox/cs252/lab7-src/Makefile",
+				"/home/ben/Dropbox/cs252/lab7-src/flip.y",
+				"/home/ben/Dropbox/cs252/lab7-src/flip.l",
+				"/home/ben/Dropbox/cs252/lab2-src/test.f",
+				"/home/ben/Dropbox/cs471/hw/hw6",
+				"/home/ben/Dropbox/cs252/lab5-src/myotherhttpd.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/myhttpd.cc",
+				"/home/ben/Dropbox/cs240/projectD/table.h",
+				"/home/ben/Dropbox/cs252/lab7-src/list.h",
+				"/home/ben/Dropbox/cs240/projectD/defs_itf.h",
+				"/home/ben/Dropbox/cs252/lab1-src/a.out",
+				"/home/ben/Dropbox/cs252/lab7-src/List.h",
+				"/home/ben/Dropbox/cs252/lab5-src/buildHTML.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/Makefile",
+				"/home/ben/Dropbox/cs252/lab5-src/myhttpd.h",
+				"/home/ben/Dropbox/cs252/lab5-src/sort.c",
+				"/home/ben/Dropbox/cs251/lab4-src/minihttpd.cpp",
+				"/home/ben/Dropbox/cs252/lab5-src/http-root-dir/htdocs/index.html",
+				"/home/ben/Dropbox/cs252/lab5-src/log",
+				"/home/ben/Dropbox/cs252/lab5-src/log.log",
+				"/home/ben/Dropbox/cs251/lab4-src/search-engine.cpp",
+				"/home/ben/Dropbox/cs252/lab3-src/command.cc",
+				"/home/ben/Dropbox/cs252/lab3-src/shell.y",
+				"/home/ben/Dropbox/cs252/lab2-src/gitrepo/lab2-src/func_decl.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/http-root-dir/cgi-src/Makefile",
+				"/home/ben/Dropbox/cs252/lab5-src/http-root-dir/cgi-src/jj-mod.c",
+				"/home/ben/Dropbox/cs252/lab5-src/daytime-server.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/http-root-dir/cgi-bin/uptime",
+				"/home/ben/Dropbox/cs252/lab5-src/logger.h",
+				"/home/ben/Dropbox/cs240/projectD/rf.c",
+				"/home/ben/Dropbox/cs252/lab5-src/use-dlopen.cc",
+				"/home/ben/Dropbox/ma265/hw7.txt",
+				"/home/ben/Dropbox/cs252/lab3-src/wildcards.cc",
+				"/home/ben/Dropbox/cs251/lab4-src/minihttpd.h",
+				"/home/ben/Dropbox/cs252/lab4-src/recmutex.c",
+				"/home/ben/Dropbox/cs252/lab4-src/recmutex.h",
+				"/home/ben/Dropbox/cs252/lab5-src/cargs.h",
+				"/home/ben/Dropbox/cs252/lab5-src/cargs.c",
+				"/home/ben/Dropbox/cs252/lab5-src/symtab.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/symtab.h",
+				"/home/ben/Dropbox/cs252/lab1-src/Queue.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/Runnable.h",
+				"/home/ben/Dropbox/cs252/lab5-src/optionals.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/table.c",
+				"/home/ben/Dropbox/cs252/lab5-src/table.h",
+				"/home/ben/Dropbox/cs252/lab5-src/HashTableTemplate.h",
+				"/home/ben/Dropbox/cs252/lab5-src/logger.cc",
+				"/home/ben/Dropbox/cs252/lab5-src/RWLock.h",
+				"/home/ben/Dropbox/cs252/lab5-src/RWLock.cc",
+				"/home/ben/Dropbox/cs390/lab1-src/Crawler.java",
+				"/home/ben/Dropbox/cs252/RWLock (Case Conflict (28)).cc",
+				"/home/ben/Dropbox/cs251/lab3-src/MyString.cc",
+				"/home/ben/Dropbox/cs251/lab3-src/webcrawler.cpp",
+				"/home/ben/.zshrc",
+				"/etc/systemd/system/connectionReset.service",
+				"/home/ben/Dropbox/cs252/rwlock.cc"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"/mnt/afterburst/v2/client/src/app/",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"color",
+					"Study",
+					"StudyController",
+					"StudyCtrl",
+					"study",
+					"Stacks",
+					"stacks",
+					"Project",
+					"currentIndex",
+					"projectList",
+					"setProject",
+					"studySession",
+					"Stage",
+					"(",
+					"creat",
+					"register",
+					"Generic_Experiment_Node",
+					"card",
+					"h1",
+					"+\n",
+					"'",
+					"id",
+					"\\\"",
+					"name",
+					"'",
+					"('",
+					"\"",
+					"stacks",
+					"HomeController",
+					"Stack",
+					"Stacks",
+					"stack",
+					"Stack",
+					"stack",
+					"StackService",
+					"experiment",
+					"Experiments",
+					"experiments",
+					"Experiments",
+					"experiment",
+					"stacks",
+					"experiments",
+					"Experiment",
+					"Experiments",
+					"ExperimentsCtrl",
+					"experiments",
+					"Stack",
+					"HomeCtrl",
+					"home",
+					"HomeController",
+					"experiment",
+					"experiments",
+					"Experiment",
+					"experiment",
+					"^[0-9][0-9][0-9]",
+					"100",
+					"^ [0-9][0-9]",
+					"\\n [0-9]",
+					"list_node",
+					"head",
+					"resolve",
+					"intResult",
+					"num_list",
+					"app",
+					"prep",
+					"init",
+					"newNode",
+					"cont",
+					"free_tree",
+					"free",
+					"ifz",
+					"ife",
+					"eval",
+					"struct re",
+					"eval",
+					"_value",
+					"value",
+					"unexpected",
+					"resolve",
+					"intvalu",
+					"eval(",
+					"eval",
+					"made it",
+					"stuff",
+					"remove",
+					"openfile",
+					"dispa",
+					"exec",
+					"http-roo",
+					".so",
+					"getparent",
+					"hrefpa",
+					"href",
+					"buildHr",
+					"buildDirectory",
+					"&&",
+					"buildHref",
+					"getParent",
+					"parent",
+					"..",
+					"href",
+					"myh",
+					"row",
+					"adding",
+					"Icon",
+					"404",
+					"if (str",
+					"&&",
+					"buildPa",
+					"file:",
+					"isd",
+					"timetak",
+					"buildTable",
+					"mapto",
+					"fork",
+					"buildP",
+					"buildPa",
+					"strstr",
+					"ststr",
+					"buildPath",
+					"buildPa",
+					"strstr",
+					"buildhref",
+					"href",
+					"stats",
+					"time",
+					"runFunc",
+					"404"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2"
+				}
+			],
 			"groups":
 			[
 				{
@@ -1880,25 +1895,26 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/ben/Dropbox/cs490es/inflection.c",
+							"file": "/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/recall/recall.ctrl.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4435,
+								"buffer_size": 3429,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										4370,
-										4370
+										1014,
+										1014
 									]
 								],
 								"settings":
 								{
-									"auto_name": "#include <stdio.h>",
-									"syntax": "Packages/C++/C++.tmLanguage"
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1909,29 +1925,29 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/home/ben/Dropbox/cs490es/inflection_service_server.c",
+							"file": "/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/stacks/stacksCreationDialog.tpl.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 6178,
+								"buffer_size": 3182,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										5688,
-										5688
+										2061,
+										2061
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/C++/C++.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 2831.0,
+								"translation.y": 448.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -1939,58 +1955,29 @@
 						},
 						{
 							"buffer": 2,
-							"file": "/home/ben/Dropbox/cs252/lab5-src/myhttpd.cc",
+							"file": "/run/user/1000/gvfs/sftp:host=104.243.32.47/home/Elements_Node/v2/client/src/app/stacks/stacks.ctrl.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 8020,
+								"buffer_size": 4244,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										4136,
+										4136
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/C++/C++.tmLanguage",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/home/ben/Dropbox/cs252/lab5-src/myotherhttpd.cc",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 26931,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										23806,
-										23806
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/C++/C++.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 13497.0,
+								"translation.y": 1710.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
@@ -2039,7 +2026,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,903,0,1832,1024,1920,1080",
+			"position": "0,0,0,0,0,62,92,1074,844,1600,900",
 			"project": "",
 			"replace":
 			{
@@ -2066,12 +2053,12 @@
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 272.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 392.0
 			},
 			"selected_group": 0,
 			"settings":
@@ -2081,12 +2068,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 188.0,
+			"side_bar_width": 262.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 172,
+			"window_id": 183,
 			"workspace_name": ""
 		}
 	],
